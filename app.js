@@ -120,9 +120,8 @@ function routeTo(route, params={}){
   }
 }
 
-homeBtn.addEventListener('click', async ()=>{
-  const ok = await confirmModal('Return Home?', 'Your current screen will close. Are you sure?');
-  if (ok) routeTo('home');
+homeBtn.addEventListener('click', ()=>{
+   routeTo('home');
 });
 settingsBtn.addEventListener('click', ()=>{
   routeTo(state.route === 'settings' ? 'home' : 'settings');
