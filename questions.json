@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "fc-0",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Mortgage Market Where credit institutions originate loans",
+    "choices": [
+      "Regulation X",
+      "Regulation C",
+      "Primary",
+      "Regulation B"
+    ],
+    "answerIndex": 2,
+    "explanation": "Primary"
+  },
+  {
+    "id": "fc-1",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of the loan A. The maximum rate increase at the initial adjustment",
+    "choices": [
+      "life",
+      "Predatory Lending",
+      "Regulation X",
+      "Real Estate Settlement Procedures Act (RESPA)"
+    ],
+    "answerIndex": 0,
+    "explanation": "life"
+  },
+  {
+    "id": "fc-2",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "term that requires additional disclosures",
+    "choices": [
+      "Regulation B",
+      "Safeguards Rule",
+      "conditions",
+      "Trigger Term Advertised"
+    ],
+    "answerIndex": 3,
+    "explanation": "Trigger Term Advertised"
+  },
+  {
+    "id": "fc-3",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "from being deceptive, unfair, or otherwise violate a Commission",
+    "choices": [
+      "Pre-Qualification Letter Estimate",
+      "Trigger Term Advertised",
+      "keep",
+      "Real Estate Settlement Procedures Act (RESPA)"
+    ],
+    "answerIndex": 2,
+    "explanation": "keep"
+  },
+  {
+    "id": "fc-4",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of Rescission Extenuating circumstances such as \"bona fide personal financial",
+    "choices": [
+      "Private",
+      "Regulation V",
+      "Waving Right",
+      "Gramm-Leach-Bliley Act (GLBA)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Waving Right"
+  },
+  {
+    "id": "fc-5",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of Rescission Right that borrowers have to cancel a loan or line of credit with a",
+    "choices": [
+      "Right",
+      "High-Cost Mortgage",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Real Estate Settlement Procedures Act (RESPA)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Right"
+  },
+  {
+    "id": "fc-6",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "within three days of closing",
+    "choices": [
+      "lender",
+      "HOEPA",
+      "Regulation B",
+      "evidence"
+    ],
+    "answerIndex": 0,
+    "explanation": "lender"
+  },
+  {
+    "id": "fc-7",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "or a federal holiday",
+    "choices": [
+      "except Sunday",
+      "Regulation C",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Safeguards Rule"
+    ],
+    "answerIndex": 0,
+    "explanation": "except Sunday"
+  },
+  {
+    "id": "fc-8",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Enacted 1968 promotes the informed use of consumer credit by",
+    "choices": [
+      "TILA",
+      "Safeguards Rule",
+      "Redlining",
+      "Safeguards Rule"
+    ],
+    "answerIndex": 0,
+    "explanation": "TILA"
+  },
+  {
+    "id": "fc-9",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "in Lending Act requiring disclosures about terms and costs and standardizes the",
+    "choices": [
+      "Truth",
+      "Regulation Z Most",
+      "Equal Credit Opportunity Act (ECOA)",
+      "Steering"
+    ],
+    "answerIndex": 0,
+    "explanation": "Truth"
+  },
+  {
+    "id": "fc-10",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "in which costs with borrowing are calculated and disclosed",
+    "choices": [
+      "manner",
+      "Safeguards Rule",
+      "Regulation C",
+      "Equal Credit Opportunity Act (ECOA)"
+    ],
+    "answerIndex": 0,
+    "explanation": "manner"
+  },
+  {
+    "id": "fc-11",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Interest Interest charged on a loan for one or more days",
+    "choices": [
+      "NFIP Made",
+      "Regulation C",
+      "Per Diem",
+      "Fair Credit Reporting Act (FCRA)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Per Diem"
+  },
+  {
+    "id": "fc-12",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Mortgage Mortgage where the mortgagor is only required to pay off the",
+    "choices": [
+      "Interest Only",
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Predatory Lending",
+      "Predatory Lending"
+    ],
+    "answerIndex": 0,
+    "explanation": "Interest Only"
+  },
+  {
+    "id": "fc-13",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "that arises from the principal that is borrowed for a set period",
+    "choices": [
+      "Fair Credit Reporting Act (FCRA)",
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "interest",
+      "Equal Credit Opportunity Act (ECOA)"
+    ],
+    "answerIndex": 2,
+    "explanation": "interest"
+  },
+  {
+    "id": "fc-14",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Borrower chooses to pay additional \"discount points\" to buy down",
+    "choices": [
+      "HOEPA",
+      "Permanent Buydown",
+      "Home Equity Conversion",
+      "Regulation V"
+    ],
+    "answerIndex": 1,
+    "explanation": "Permanent Buydown"
+  },
+  {
+    "id": "fc-15",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "interest rate for the life of the mortgage note",
+    "choices": [
+      "Safeguards Rule",
+      "the",
+      "Involuntary Lien Lien",
+      "Regulation C"
+    ],
+    "answerIndex": 1,
+    "explanation": "the"
+  },
+  {
+    "id": "fc-16",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of two initial temporary-start interest rates that increase in stair-",
+    "choices": [
+      "Set",
+      "Loan Application Basis",
+      "Safeguards Rule",
+      "HOEPA"
+    ],
+    "answerIndex": 0,
+    "explanation": "Set"
+  },
+  {
+    "id": "fc-17",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "fashion until a permanent interest rate is reached",
+    "choices": [
+      "step",
+      "Privacy Rule",
+      "Regulation V",
+      "Gramm-Leach-Bliley Act (GLBA)"
+    ],
+    "answerIndex": 0,
+    "explanation": "step"
+  },
+  {
+    "id": "fc-18",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Ratio of a loan to the value of an asset purchased",
+    "choices": [
+      "LTV",
+      "Ability-to-Repay Rule",
+      "Regulation B",
+      "Regulation B"
+    ],
+    "answerIndex": 0,
+    "explanation": "LTV"
+  },
+  {
+    "id": "fc-19",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Interest, Taxes, Insurance",
+    "choices": [
+      "Ability-to-Repay Rule",
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "PITI Principal,",
+      "Ability-to-Repay Rule"
+    ],
+    "answerIndex": 2,
+    "explanation": "PITI Principal,"
+  },
+  {
+    "id": "fc-20",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "to the components of a mortgage payment",
+    "choices": [
+      "Origination",
+      "Note Promise",
+      "Income Verification Provides",
+      "Refers"
+    ],
+    "answerIndex": 3,
+    "explanation": "Refers"
+  },
+  {
+    "id": "fc-21",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "that measures an individual's ability to manage monthly",
+    "choices": [
+      "Qualified Mortgage (QM)",
+      "Regulation X",
+      "Ratio",
+      "Qualified Mortgage (QM)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ratio"
+  },
+  {
+    "id": "fc-22",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "and repay debts",
+    "choices": [
+      "Redlining",
+      "payment",
+      "Ability-to-Repay Rule",
+      "Redlining"
+    ],
+    "answerIndex": 1,
+    "explanation": "payment"
+  },
+  {
+    "id": "fc-23",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "A permanent restructuring of the mortgage where one or more of",
+    "choices": [
+      "Loan Modification",
+      "Regulation V",
+      "Regulation B",
+      "Waving Right"
+    ],
+    "answerIndex": 0,
+    "explanation": "Loan Modification"
+  },
+  {
+    "id": "fc-24",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of Mortgage Letter Document generated and signed by a mortgage lender,",
+    "choices": [
+      "High-Cost Mortgage",
+      "Satisfaction",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Predatory Lending"
+    ],
+    "answerIndex": 1,
+    "explanation": "Satisfaction"
+  },
+  {
+    "id": "fc-25",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "that the borrower has paid off the mortgage loan in",
+    "choices": [
+      "Pre-Payment Penalty Fixed",
+      "acknowledging",
+      "Regulation B",
+      "Tri-Credit Report All"
+    ],
+    "answerIndex": 1,
+    "explanation": "acknowledging"
+  },
+  {
+    "id": "fc-26",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "and the mortgage is not a lien on the property",
+    "choices": [
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Regulation B",
+      "Home Mortgage Disclosure Act (HMDA)",
+      "full"
+    ],
+    "answerIndex": 3,
+    "explanation": "full"
+  },
+  {
+    "id": "fc-27",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Agreement When two mortgages are on a property, this specifies which",
+    "choices": [
+      "Ability-to-Repay Rule",
+      "Qualified Mortgage (QM)",
+      "Subordination",
+      "Gramm-Leach-Bliley Act (GLBA)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Subordination"
+  },
+  {
+    "id": "fc-28",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "homeowner proof the mortgage is paid off",
+    "choices": [
+      "Regulation X",
+      "Payoff Statement Provides",
+      "interest",
+      "Redlining"
+    ],
+    "answerIndex": 1,
+    "explanation": "Payoff Statement Provides"
+  },
+  {
+    "id": "fc-29",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "that should compel a reasonable person to make further",
+    "choices": [
+      "Predatory Lending",
+      "a",
+      "Inquiry Note Information",
+      "Waving Right"
+    ],
+    "answerIndex": 2,
+    "explanation": "Inquiry Note Information"
+  },
+  {
+    "id": "fc-30",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "about some aspect of the property",
+    "choices": [
+      "Privacy Rule",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "inquiries",
+      "Regulation C"
+    ],
+    "answerIndex": 2,
+    "explanation": "inquiries"
+  },
+  {
+    "id": "fc-31",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "as a central repository of information about a parcel of land",
+    "choices": [
+      "High-Cost Mortgage",
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Privacy Rule",
+      "Title Record Serves"
+    ],
+    "answerIndex": 3,
+    "explanation": "Title Record Serves"
+  },
+  {
+    "id": "fc-32",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "received by lender after selling a loan Based on market",
+    "choices": [
+      "Home Mortgage Disclosure Act (HMDA)",
+      "Equal Credit Opportunity Act (ECOA)",
+      "SRP Payment",
+      "Regulation V"
+    ],
+    "answerIndex": 2,
+    "explanation": "SRP Payment"
+  },
+  {
+    "id": "fc-33",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Premiums value",
+    "choices": [
+      "Service Release",
+      "Regulation B",
+      "Non-Conforming Loan Does",
+      "Equal Credit Opportunity Act (ECOA)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Service Release"
+  },
+  {
+    "id": "fc-34",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Created in 1968, goal to expand affordable housing under HUD",
+    "choices": [
+      "GNMA",
+      "Regulation V",
+      "High-Cost Mortgage",
+      "Regulation X"
+    ],
+    "answerIndex": 0,
+    "explanation": "GNMA"
+  },
+  {
+    "id": "fc-35",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Mortgage Association",
+    "choices": [
+      "Fair Credit Reporting Act (FCRA)",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Fair Credit Reporting Act (FCRA)",
+      "Government National"
+    ],
+    "answerIndex": 3,
+    "explanation": "Government National"
+  },
+  {
+    "id": "fc-36",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "A loan in which the lender agrees to lend a maximum amount within",
+    "choices": [
+      "HELOC",
+      "Regulation C",
+      "Regulation X",
+      "Regulation B"
+    ],
+    "answerIndex": 0,
+    "explanation": "HELOC"
+  },
+  {
+    "id": "fc-37",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of Credit an agreed period",
+    "choices": [
+      "Home Equity Line",
+      "Regulation X",
+      "Fair Credit Reporting Act (FCRA)",
+      "Real Estate Settlement Procedures Act (RESPA)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Home Equity Line"
+  },
+  {
+    "id": "fc-38",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "is also an open-ended mortgage transaction that is secured",
+    "choices": [
+      "and",
+      "Qualified Mortgage (QM)",
+      "Regulation C",
+      "Equal Credit Opportunity Act (ECOA)"
+    ],
+    "answerIndex": 0,
+    "explanation": "and"
+  },
+  {
+    "id": "fc-39",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "A FHA insured reverse mortgage that allows the conversion of equity",
+    "choices": [
+      "High-Cost Mortgage",
+      "Ability-to-Repay Rule",
+      "HECM",
+      "Predatory Lending"
+    ],
+    "answerIndex": 2,
+    "explanation": "HECM"
+  },
+  {
+    "id": "fc-40",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Mortgage in a home to cash",
+    "choices": [
+      "Equal Credit Opportunity Act (ECOA)",
+      "Equal Credit Opportunity Act (ECOA)",
+      "Home Equity Conversion",
+      "Safeguards Rule"
+    ],
+    "answerIndex": 2,
+    "explanation": "Home Equity Conversion"
+  },
+  {
+    "id": "fc-41",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "in a single payment at the end of the loan period and does not",
+    "choices": [
+      "Privacy Rule",
+      "Regulation C",
+      "repaid",
+      "Regulation X"
+    ],
+    "answerIndex": 2,
+    "explanation": "repaid"
+  },
+  {
+    "id": "fc-42",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "to obtain a higher loan amount",
+    "choices": [
+      "Trustee Holds",
+      "Used",
+      "Equal Credit Opportunity Act (ECOA)",
+      "Fair Credit Reporting Act (FCRA)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Used"
+  },
+  {
+    "id": "fc-43",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "not meet Freddie Mac or Fannie Mae guidelines",
+    "choices": [
+      "Non-Conforming Loan Does",
+      "Predatory Lending",
+      "Steering",
+      "Gramm-Leach-Bliley Act (GLBA)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Non-Conforming Loan Does"
+  },
+  {
+    "id": "fc-44",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "When fees are attached to late payment",
+    "choices": [
+      "Late Payement Penalty",
+      "Qualified Mortgage (QM)",
+      "Per Diem",
+      "Home Mortgage Disclosure Act (HMDA)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Late Payement Penalty"
+  },
+  {
+    "id": "fc-45",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "sum added to loan if loan is paid off early",
+    "choices": [
+      "Requires Fannie Mae",
+      "PITI Principal,",
+      "HOEPA",
+      "Pre-Payment Penalty Fixed"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pre-Payment Penalty Fixed"
+  },
+  {
+    "id": "fc-46",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "with no note attached",
+    "choices": [
+      "evidence",
+      "seller",
+      "Fair Credit Reporting Act (FCRA)",
+      "Regulation X"
+    ],
+    "answerIndex": 1,
+    "explanation": "seller"
+  },
+  {
+    "id": "fc-47",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "to repay debt",
+    "choices": [
+      "HOEPA",
+      "Note Promise",
+      "Ability-to-Repay Rule",
+      "Redlining"
+    ],
+    "answerIndex": 1,
+    "explanation": "Note Promise"
+  },
+  {
+    "id": "fc-48",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of collateral to secure a loan",
+    "choices": [
+      "payment,",
+      "Loan Modification",
+      "HOEPA",
+      "Mortgage Pledge"
+    ],
+    "answerIndex": 3,
+    "explanation": "Mortgage Pledge"
+  },
+  {
+    "id": "fc-49",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "A document issued by a mortgage holder indicating that the",
+    "choices": [
+      "Safeguards Rule",
+      "Steering",
+      "Reconveyance",
+      "HOEPA"
+    ],
+    "answerIndex": 2,
+    "explanation": "Reconveyance"
+  },
+  {
+    "id": "fc-50",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "is released from the mortgage debt and transfers the",
+    "choices": [
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Steering",
+      "borrower",
+      "Regulation B"
+    ],
+    "answerIndex": 2,
+    "explanation": "borrower"
+  },
+  {
+    "id": "fc-51",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "title from the lender",
+    "choices": [
+      "Qualified Mortgage (QM)",
+      "property",
+      "Home Mortgage Disclosure Act (HMDA)",
+      "Home Mortgage Disclosure Act (HMDA)"
+    ],
+    "answerIndex": 1,
+    "explanation": "property"
+  },
+  {
+    "id": "fc-52",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "party to another",
+    "choices": [
+      "Ability-to-Repay Rule",
+      "Equal Credit Opportunity Act (ECOA)",
+      "one",
+      "Qualified Mortgage (QM)"
+    ],
+    "answerIndex": 2,
+    "explanation": "one"
+  },
+  {
+    "id": "fc-53",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "A guarantee a lender will deliver a specific combination of interest",
+    "choices": [
+      "Mortgage Lock-In-Rate",
+      "GNMA",
+      "Inquiry Note Information",
+      "Regulation X"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mortgage Lock-In-Rate"
+  },
+  {
+    "id": "fc-54",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "and points if the mortgage closes by a specified date",
+    "choices": [
+      "Qualified Mortgage (QM)",
+      "Ability-to-Repay Rule",
+      "Privacy Rule",
+      "rate"
+    ],
+    "answerIndex": 3,
+    "explanation": "rate"
+  },
+  {
+    "id": "fc-55",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of loan amount a borrower can get with limited financial",
+    "choices": [
+      "Regulation X",
+      "Pre-Qualification Letter Estimate",
+      "Qualified Mortgage (QM)",
+      "borrower"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pre-Qualification Letter Estimate"
+  },
+  {
+    "id": "fc-56",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "they are willing to offer the borrower a home loan",
+    "choices": [
+      "Regulation X",
+      "that",
+      "Regulation V",
+      "Safeguards Rule"
+    ],
+    "answerIndex": 1,
+    "explanation": "that"
+  },
+  {
+    "id": "fc-57",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "subject to property specified for a loan and dependent on an",
+    "choices": [
+      "Regulation B",
+      "HOEPA",
+      "Redlining",
+      "Mortgage Approval Letter Letter"
+    ],
+    "answerIndex": 3,
+    "explanation": "Mortgage Approval Letter Letter"
+  },
+  {
+    "id": "fc-58",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "based on the trust that payment will be made in the future",
+    "choices": [
+      "High-Cost Mortgage",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "repaid",
+      "payment,"
+    ],
+    "answerIndex": 3,
+    "explanation": "payment,"
+  },
+  {
+    "id": "fc-59",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "verification a borrower has the means for repayment of debt",
+    "choices": [
+      "Regulation C",
+      "Income Verification Provides",
+      "Steering",
+      "Gramm-Leach-Bliley Act (GLBA)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Income Verification Provides"
+  },
+  {
+    "id": "fc-60",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "national credit bureau report",
+    "choices": [
+      "Regulation V",
+      "Ability-to-Repay Rule",
+      "HECM",
+      "Infile Credit Report One"
+    ],
+    "answerIndex": 3,
+    "explanation": "Infile Credit Report One"
+  },
+  {
+    "id": "fc-61",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "three credit bureau reports",
+    "choices": [
+      "Tri-Credit Report All",
+      "HOEPA",
+      "Equal Credit Opportunity Act (ECOA)",
+      "Regulation C"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tri-Credit Report All"
+  },
+  {
+    "id": "fc-62",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "borrowers bill paying habits and history",
+    "choices": [
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Steering",
+      "PMI Protects",
+      "a"
+    ],
+    "answerIndex": 3,
+    "explanation": "a"
+  },
+  {
+    "id": "fc-63",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "to enhance the transparency of the market trends,",
+    "choices": [
+      "1004 Market Conditions Addendum Designed",
+      "Fair Credit Reporting Act (FCRA)",
+      "Home Mortgage Disclosure Act (HMDA)",
+      "Regulation B"
+    ],
+    "answerIndex": 0,
+    "explanation": "1004 Market Conditions Addendum Designed"
+  },
+  {
+    "id": "fc-64",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "and conclusions made by the appraiser",
+    "choices": [
+      "HOEPA",
+      "Safeguards Rule",
+      "conditions",
+      "Non-Conforming Loan Does"
+    ],
+    "answerIndex": 2,
+    "explanation": "conditions"
+  },
+  {
+    "id": "fc-65",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "to obtain a Loan Application Face to Face",
+    "choices": [
+      "PITI Principal,",
+      "Regulation C",
+      "Ways",
+      "Home Mortgage Disclosure Act (HMDA)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ways"
+  },
+  {
+    "id": "fc-66",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "for entire loan package",
+    "choices": [
+      "Loan Application Basis",
+      "Redlining",
+      "National Flood",
+      "High-Cost Mortgage"
+    ],
+    "answerIndex": 0,
+    "explanation": "Loan Application Basis"
+  },
+  {
+    "id": "fc-67",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "acted 1968 after hurricane Betsy",
+    "choices": [
+      "PMI Protects",
+      "NFIA In",
+      "Regulation X",
+      "Regulation V"
+    ],
+    "answerIndex": 1,
+    "explanation": "NFIA In"
+  },
+  {
+    "id": "fc-68",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Insurance Act",
+    "choices": [
+      "Home Mortgage Disclosure Act (HMDA)",
+      "National Flood",
+      "Equal Credit Opportunity Act (ECOA)",
+      "Safeguards Rule"
+    ],
+    "answerIndex": 1,
+    "explanation": "National Flood"
+  },
+  {
+    "id": "fc-69",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "flood insurance available for first time",
+    "choices": [
+      "Title Insurance",
+      "NFIP Made",
+      "Refers",
+      "Requires Fannie Mae"
+    ],
+    "answerIndex": 1,
+    "explanation": "NFIP Made"
+  },
+  {
+    "id": "fc-70",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "part of NFIA",
+    "choices": [
+      "Safeguards Rule",
+      "National Flood Insurance Program",
+      "Home Mortgage Disclosure Act (HMDA)",
+      "Specific Lien Debts"
+    ],
+    "answerIndex": 1,
+    "explanation": "National Flood Insurance Program"
+  },
+  {
+    "id": "fc-71",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of property located in special flood hazard areas",
+    "choices": [
+      "Predatory Lending",
+      "Home Mortgage Disclosure Act (HMDA)",
+      "Voluntary Lien",
+      "protection"
+    ],
+    "answerIndex": 3,
+    "explanation": "protection"
+  },
+  {
+    "id": "fc-72",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Used to protect agents, two types",
+    "choices": [
+      "rate",
+      "Equal Credit Opportunity Act (ECOA)",
+      "except Sunday",
+      "Title Insurance"
+    ],
+    "answerIndex": 3,
+    "explanation": "Title Insurance"
+  },
+  {
+    "id": "fc-73",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "insures title is free of defects",
+    "choices": [
+      "Regulation B",
+      "Qualified Mortgage (QM)",
+      "1004 Market Conditions Addendum Designed",
+      "Owners-"
+    ],
+    "answerIndex": 3,
+    "explanation": "Owners-"
+  },
+  {
+    "id": "fc-74",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "purchaser if loan is sold",
+    "choices": [
+      "High-Cost Mortgage",
+      "Equal Credit Opportunity Act (ECOA)",
+      "Lenders-benefit",
+      "Regulation C"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lenders-benefit"
+  },
+  {
+    "id": "fc-75",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "lenders if borrower stops making payments borrower pays",
+    "choices": [
+      "PMI Protects",
+      "Regulation B",
+      "High-Cost Mortgage",
+      "Regulation B"
+    ],
+    "answerIndex": 0,
+    "explanation": "PMI Protects"
+  },
+  {
+    "id": "fc-76",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Mortgage Insurance until 20% of loan value is paid",
+    "choices": [
+      "Safeguards Rule",
+      "Private",
+      "Predatory Lending",
+      "that"
+    ],
+    "answerIndex": 1,
+    "explanation": "Private"
+  },
+  {
+    "id": "fc-77",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "own insurance is cancelled",
+    "choices": [
+      "High-Cost Mortgage",
+      "Redlining",
+      "owners",
+      "Regulation X"
+    ],
+    "answerIndex": 2,
+    "explanation": "owners"
+  },
+  {
+    "id": "fc-78",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "the cost of a new construction",
+    "choices": [
+      "Predatory Lending",
+      "Trigger Term Advertised",
+      "Regulation C",
+      "New Construction Loan Finances"
+    ],
+    "answerIndex": 3,
+    "explanation": "New Construction Loan Finances"
+  },
+  {
+    "id": "fc-79",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "while being constructed, then new loan taken out",
+    "choices": [
+      "Home Mortgage Disclosure Act (HMDA)",
+      "Safeguards Rule",
+      "High-Cost Mortgage",
+      "Pays"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pays"
+  },
+  {
+    "id": "fc-80",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "form 1004D",
+    "choices": [
+      "High-Cost Mortgage",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Requires Fannie Mae",
+      "Steering"
+    ],
+    "answerIndex": 2,
+    "explanation": "Requires Fannie Mae"
+  },
+  {
+    "id": "fc-81",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of Sale Grants lender the ability to secure full legal title to property",
+    "choices": [
+      "Qualified Mortgage (QM)",
+      "HOEPA",
+      "Power",
+      "HOEPA"
+    ],
+    "answerIndex": 2,
+    "explanation": "Power"
+  },
+  {
+    "id": "fc-82",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of property to be held for the benefit of another",
+    "choices": [
+      "Trust Right",
+      "Steering",
+      "Equal Credit Opportunity Act (ECOA)",
+      "Regulation X"
+    ],
+    "answerIndex": 0,
+    "explanation": "Trust Right"
+  },
+  {
+    "id": "fc-83",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "who grants the right to trust",
+    "choices": [
+      "Truster Person",
+      "Predatory Lending",
+      "Ability-to-Repay Rule",
+      "Payoff Statement Provides"
+    ],
+    "answerIndex": 0,
+    "explanation": "Truster Person"
+  },
+  {
+    "id": "fc-84",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "the property of a trust",
+    "choices": [
+      "Equal Credit Opportunity Act (ECOA)",
+      "Trustee Holds",
+      "Regulation V",
+      "Regulation V"
+    ],
+    "answerIndex": 1,
+    "explanation": "Trustee Holds"
+  },
+  {
+    "id": "fc-85",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "tied to single property",
+    "choices": [
+      "Safeguards Rule",
+      "Specific Lien Debts",
+      "High-Cost Mortgage",
+      "Steering"
+    ],
+    "answerIndex": 1,
+    "explanation": "Specific Lien Debts"
+  },
+  {
+    "id": "fc-86",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "priority lien holder has first rights to collect",
+    "choices": [
+      "High-Cost Mortgage",
+      "Regulation X",
+      "Safeguards Rule",
+      "Highest"
+    ],
+    "answerIndex": 3,
+    "explanation": "Highest"
+  },
+  {
+    "id": "fc-87",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "imposed upon the owner of real property",
+    "choices": [
+      "Loan Modification",
+      "Redlining",
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Involuntary Lien Lien"
+    ],
+    "answerIndex": 3,
+    "explanation": "Involuntary Lien Lien"
+  },
+  {
+    "id": "fc-88",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Mortgage owner willingly entered into an agreement of lien against",
+    "choices": [
+      "Privacy Rule",
+      "High-Cost Mortgage",
+      "Regulation B",
+      "Voluntary Lien"
+    ],
+    "answerIndex": 3,
+    "explanation": "Voluntary Lien"
+  },
+  {
+    "id": "fc-89",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "An interest or encumbrance held by a creditor in a debtee's real or",
+    "choices": [
+      "Regulation C",
+      "Lien",
+      "lender",
+      "Regulation C"
+    ],
+    "answerIndex": 1,
+    "explanation": "Lien"
+  },
+  {
+    "id": "fc-90",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Mortgage Market Where originated loans are sold to warehouse lenders",
+    "choices": [
+      "payment",
+      "Equal Credit Opportunity Act (ECOA)",
+      "Secondary",
+      "interest"
+    ],
+    "answerIndex": 2,
+    "explanation": "Secondary"
+  },
+  {
+    "id": "fc-91",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "fee is charged to warehouse lenders",
+    "choices": [
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Regulation C",
+      "Origination",
+      "Real Estate Settlement Procedures Act (RESPA)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Origination"
+  },
+  {
+    "id": "fc-92",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "When a borrower orally asks about a credit plan lender must state",
+    "choices": [
+      "Primary",
+      "Fair Credit Reporting Act (FCRA)",
+      "Oral Rate Disclosures",
+      "Fair Credit Reporting Act (FCRA)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Oral Rate Disclosures"
+  },
+  {
+    "id": "fc-93",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "both of which are new disclosures, for two years",
+    "choices": [
+      "Safeguards Rule",
+      "keep",
+      "Ability-to-Repay Rule",
+      "Payment Disclosure,"
+    ],
+    "answerIndex": 3,
+    "explanation": "Payment Disclosure,"
+  },
+  {
+    "id": "fc-94",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "all compensation it pays to a loan originator",
+    "choices": [
+      "Equal Credit Opportunity Act (ECOA)",
+      "evidence",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Gramm-Leach-Bliley Act (GLBA)"
+    ],
+    "answerIndex": 1,
+    "explanation": "evidence"
+  },
+  {
+    "id": "fc-95",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "of the specific requirements imposed by TILA are found in",
+    "choices": [
+      "Regulation Z Most",
+      "High-Cost Mortgage",
+      "Fair Credit Reporting Act (FCRA)",
+      "Reconveyance"
+    ],
+    "answerIndex": 0,
+    "explanation": "Regulation Z Most"
+  },
+  {
+    "id": "fc-96",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Federal law prohibiting discrimination in credit transactions.",
+    "choices": [
+      "Equal Credit Opportunity Act (ECOA)",
+      "Privacy Rule",
+      "Equal Credit Opportunity Act (ECOA)",
+      "Fair Credit Reporting Act (FCRA)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Equal Credit Opportunity Act (ECOA)"
+  },
+  {
+    "id": "fc-97",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Implements ECOA and prohibits discriminatory lending practices.",
+    "choices": [
+      "Safeguards Rule",
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Regulation B",
+      "Safeguards Rule"
+    ],
+    "answerIndex": 2,
+    "explanation": "Regulation B"
+  },
+  {
+    "id": "fc-98",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Requires disclosures related to real estate settlement costs.",
+    "choices": [
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Waving Right",
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Regulation C"
+    ],
+    "answerIndex": 2,
+    "explanation": "Real Estate Settlement Procedures Act (RESPA)"
+  },
+  {
+    "id": "fc-99",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Implements RESPA requirements.",
+    "choices": [
+      "Regulation V",
+      "Regulation X",
+      "Qualified Mortgage (QM)",
+      "Regulation B"
+    ],
+    "answerIndex": 1,
+    "explanation": "Regulation X"
+  },
+  {
+    "id": "fc-100",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Requires lenders to report mortgage data for public analysis.",
+    "choices": [
+      "Redlining",
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "HOEPA",
+      "Home Mortgage Disclosure Act (HMDA)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Home Mortgage Disclosure Act (HMDA)"
+  },
+  {
+    "id": "fc-101",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Implements HMDA reporting requirements.",
+    "choices": [
+      "except Sunday",
+      "Regulation C",
+      "Equal Credit Opportunity Act (ECOA)",
+      "High-Cost Mortgage"
+    ],
+    "answerIndex": 1,
+    "explanation": "Regulation C"
+  },
+  {
+    "id": "fc-102",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Regulates collection and use of consumer credit information.",
+    "choices": [
+      "Predatory Lending",
+      "Fair Credit Reporting Act (FCRA)",
+      "National Flood",
+      "Home Mortgage Disclosure Act (HMDA)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fair Credit Reporting Act (FCRA)"
+  },
+  {
+    "id": "fc-103",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Implements FCRA.",
+    "choices": [
+      "Regulation C",
+      "Primary",
+      "Fair Credit Reporting Act (FCRA)",
+      "Regulation V"
+    ],
+    "answerIndex": 3,
+    "explanation": "Regulation V"
+  },
+  {
+    "id": "fc-104",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Requires financial institutions to protect consumer information.",
+    "choices": [
+      "Qualified Mortgage (QM)",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Regulation B"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gramm-Leach-Bliley Act (GLBA)"
+  },
+  {
+    "id": "fc-105",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Requires institutions to develop security programs to protect customer data.",
+    "choices": [
+      "Qualified Mortgage (QM)",
+      "Mortgage Pledge",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Safeguards Rule"
+    ],
+    "answerIndex": 3,
+    "explanation": "Safeguards Rule"
+  },
+  {
+    "id": "fc-106",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Requires disclosure of information-sharing practices to consumers.",
+    "choices": [
+      "Regulation X",
+      "Privacy Rule",
+      "Regulation B",
+      "rate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Privacy Rule"
+  },
+  {
+    "id": "fc-107",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Requires lenders to verify a borrower's ability to repay a mortgage.",
+    "choices": [
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Regulation V",
+      "Ability-to-Repay Rule"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ability-to-Repay Rule"
+  },
+  {
+    "id": "fc-108",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "A mortgage that meets ATR requirements and provides lender protections.",
+    "choices": [
+      "Qualified Mortgage (QM)",
+      "borrower",
+      "Ability-to-Repay Rule",
+      "Note Promise"
+    ],
+    "answerIndex": 0,
+    "explanation": "Qualified Mortgage (QM)"
+  },
+  {
+    "id": "fc-109",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Loan that exceeds HOEPA thresholds for rates or fees.",
+    "choices": [
+      "HOEPA",
+      "Ability-to-Repay Rule",
+      "High-Cost Mortgage",
+      "Safeguards Rule"
+    ],
+    "answerIndex": 2,
+    "explanation": "High-Cost Mortgage"
+  },
+  {
+    "id": "fc-110",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Provides additional protections for high-cost mortgages.",
+    "choices": [
+      "Equal Credit Opportunity Act (ECOA)",
+      "HOEPA",
+      "Steering",
+      "National Flood Insurance Program"
+    ],
+    "answerIndex": 1,
+    "explanation": "HOEPA"
+  },
+  {
+    "id": "fc-111",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Illegal practice of denying credit based on geographic area.",
+    "choices": [
+      "Regulation V",
+      "Redlining",
+      "Regulation V",
+      "Note Promise"
+    ],
+    "answerIndex": 1,
+    "explanation": "Redlining"
+  },
+  {
+    "id": "fc-112",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Directing borrowers to loans that benefit the lender rather than borrower.",
+    "choices": [
+      "Steering",
+      "Fair Credit Reporting Act (FCRA)",
+      "HOEPA",
+      "Qualified Mortgage (QM)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Steering"
+  },
+  {
+    "id": "fc-113",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Abusive lending practices that harm borrowers.",
+    "choices": [
+      "Redlining",
+      "Predatory Lending",
+      "Regulation V",
+      "Home Mortgage Disclosure Act (HMDA)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Predatory Lending"
+  },
+  {
+    "id": "fc-114",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Federal law prohibiting discrimination in credit transactions.",
+    "choices": [
+      "Regulation B",
+      "Equal Credit Opportunity Act (ECOA)",
+      "HOEPA",
+      "Regulation B"
+    ],
+    "answerIndex": 1,
+    "explanation": "Equal Credit Opportunity Act (ECOA)"
+  },
+  {
+    "id": "fc-115",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Implements ECOA and prohibits discriminatory lending practices.",
+    "choices": [
+      "Regulation B",
+      "Privacy Rule",
+      "conditions",
+      "High-Cost Mortgage"
+    ],
+    "answerIndex": 0,
+    "explanation": "Regulation B"
+  },
+  {
+    "id": "fc-116",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Requires disclosures related to real estate settlement costs.",
+    "choices": [
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Predatory Lending",
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Regulation X"
+    ],
+    "answerIndex": 2,
+    "explanation": "Real Estate Settlement Procedures Act (RESPA)"
+  },
+  {
+    "id": "fc-117",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Implements RESPA requirements.",
+    "choices": [
+      "Qualified Mortgage (QM)",
+      "Regulation C",
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Regulation X"
+    ],
+    "answerIndex": 3,
+    "explanation": "Regulation X"
+  },
+  {
+    "id": "fc-118",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Requires lenders to report mortgage data for public analysis.",
+    "choices": [
+      "Equal Credit Opportunity Act (ECOA)",
+      "Private",
+      "Home Mortgage Disclosure Act (HMDA)",
+      "Redlining"
+    ],
+    "answerIndex": 2,
+    "explanation": "Home Mortgage Disclosure Act (HMDA)"
+  },
+  {
+    "id": "fc-119",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Implements HMDA reporting requirements.",
+    "choices": [
+      "Regulation C",
+      "Regulation V",
+      "Privacy Rule",
+      "Owners-"
+    ],
+    "answerIndex": 0,
+    "explanation": "Regulation C"
+  },
+  {
+    "id": "fc-120",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Regulates collection and use of consumer credit information.",
+    "choices": [
+      "Fair Credit Reporting Act (FCRA)",
+      "Truster Person",
+      "Safeguards Rule",
+      "Home Mortgage Disclosure Act (HMDA)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fair Credit Reporting Act (FCRA)"
+  },
+  {
+    "id": "fc-121",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Implements FCRA.",
+    "choices": [
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Redlining",
+      "Regulation V",
+      "Steering"
+    ],
+    "answerIndex": 2,
+    "explanation": "Regulation V"
+  },
+  {
+    "id": "fc-122",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Requires financial institutions to protect consumer information.",
+    "choices": [
+      "Gramm-Leach-Bliley Act (GLBA)",
+      "Home Mortgage Disclosure Act (HMDA)",
+      "Steering",
+      "Voluntary Lien"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gramm-Leach-Bliley Act (GLBA)"
+  },
+  {
+    "id": "fc-123",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Requires institutions to develop security programs to protect customer data.",
+    "choices": [
+      "Regulation X",
+      "Steering",
+      "Safeguards Rule",
+      "Home Mortgage Disclosure Act (HMDA)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Safeguards Rule"
+  },
+  {
+    "id": "fc-124",
+    "category": "general",
+    "prompt": "Which term best matches the following definition?",
+    "stem": "Requires disclosure of information-sharing practices to consumers.",
+    "choices": [
+      "Real Estate Settlement Procedures Act (RESPA)",
+      "Privacy Rule",
+      "Non-Conforming Loan Does",
+      "property"
+    ],
+    "answerIndex": 1,
+    "explanation": "Privacy Rule"
+  }
+]
