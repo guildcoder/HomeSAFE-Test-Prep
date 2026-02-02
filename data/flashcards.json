@@ -1,0 +1,2502 @@
+[
+  {
+    "term": "Truth in Lending Act (TILA)",
+    "definition": "Federal law requiring standardized disclosures of credit terms and costs.",
+    "category": "federal"
+  },
+  {
+    "term": "Regulation Z",
+    "definition": "Implements TILA (12 CFR 1026); covers APR/finance charge, disclosures, rescission, ATR/QM, and LO comp rules.",
+    "category": "federal"
+  },
+  {
+    "term": "Real Estate Settlement Procedures Act (RESPA)",
+    "definition": "Federal law regulating settlement practices; prohibits kickbacks/unearned fees and requires certain disclosures.",
+    "category": "federal"
+  },
+  {
+    "term": "Regulation X",
+    "definition": "Implements RESPA (12 CFR 1024); includes servicing rules, escrow rules, and loss mitigation requirements.",
+    "category": "federal"
+  },
+  {
+    "term": "TILA-RESPA Integrated Disclosures (TRID)",
+    "definition": "Rule combining TILA and RESPA disclosures into the Loan Estimate and Closing Disclosure for most closed-end mortgages.",
+    "category": "federal"
+  },
+  {
+    "term": "Loan Estimate (LE)",
+    "definition": "TRID disclosure generally due within 3 business days of application for covered loans.",
+    "category": "federal"
+  },
+  {
+    "term": "Closing Disclosure (CD)",
+    "definition": "TRID disclosure generally due at least 3 business days before consummation for covered loans.",
+    "category": "federal"
+  },
+  {
+    "term": "Right of rescission",
+    "definition": "Right to cancel certain credit transactions secured by a principal dwelling within 3 business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Equal Credit Opportunity Act (ECOA)",
+    "definition": "Prohibits discrimination in credit transactions; requires certain notices.",
+    "category": "federal"
+  },
+  {
+    "term": "Regulation B",
+    "definition": "Implements ECOA (12 CFR 1002); covers adverse action, appraisal copies, and application rules.",
+    "category": "federal"
+  },
+  {
+    "term": "Fair Housing Act",
+    "definition": "Prohibits discrimination in housing-related transactions, including mortgage lending.",
+    "category": "federal"
+  },
+  {
+    "term": "Home Mortgage Disclosure Act (HMDA)",
+    "definition": "Requires certain lenders to collect and report mortgage application/loan data.",
+    "category": "federal"
+  },
+  {
+    "term": "Regulation C",
+    "definition": "Implements HMDA (12 CFR 1003) reporting requirements.",
+    "category": "federal"
+  },
+  {
+    "term": "Fair Credit Reporting Act (FCRA)",
+    "definition": "Regulates consumer reports, permissible purpose, accuracy, and dispute rights.",
+    "category": "federal"
+  },
+  {
+    "term": "Regulation V",
+    "definition": "Implements key FCRA requirements (12 CFR 1022).",
+    "category": "federal"
+  },
+  {
+    "term": "Gramm–Leach–Bliley Act (GLBA)",
+    "definition": "Requires privacy notices and safeguarding of nonpublic personal information.",
+    "category": "federal"
+  },
+  {
+    "term": "Privacy Rule (GLBA)",
+    "definition": "Rules requiring privacy notices and limiting information sharing in certain cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Safeguards Rule (GLBA)",
+    "definition": "Requires an information security program to protect customer information.",
+    "category": "federal"
+  },
+  {
+    "term": "Homeowners Protection Act (PMI cancellation)",
+    "definition": "Federal law governing PMI disclosure and cancellation/termination rules for certain loans.",
+    "category": "federal"
+  },
+  {
+    "term": "Servicemembers Civil Relief Act (SCRA)",
+    "definition": "Provides protections for eligible service members (interest rate caps, foreclosure protections, etc.).",
+    "category": "federal"
+  },
+  {
+    "term": "Flood Disaster Protection Act",
+    "definition": "Requires flood insurance for certain properties in SFHAs for federally related loans.",
+    "category": "federal"
+  },
+  {
+    "term": "Mortgage Acts and Practices (MAP) Rule",
+    "definition": "Regulation N (12 CFR 1014) prohibiting material misrepresentations in mortgage advertising.",
+    "category": "federal"
+  },
+  {
+    "term": "UDAAP",
+    "definition": "Unfair, deceptive, or abusive acts or practices prohibited in consumer finance.",
+    "category": "federal"
+  },
+  {
+    "term": "Higher-Priced Mortgage Loan (HPML)",
+    "definition": "Loan with APR exceeding threshold over APOR; triggers extra requirements in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "High-Cost Mortgage (HOEPA)",
+    "definition": "Mortgage exceeding points/fees or APR triggers; subject to additional disclosures and restrictions.",
+    "category": "federal"
+  },
+  {
+    "term": "Ability-to-Repay (ATR)",
+    "definition": "Requirement to reasonably determine a borrower has the ability to repay the loan.",
+    "category": "federal"
+  },
+  {
+    "term": "Qualified Mortgage (QM)",
+    "definition": "Mortgage meeting ATR standards and limiting risky features; may provide legal protections.",
+    "category": "federal"
+  },
+  {
+    "term": "SAFE Act (federal)",
+    "definition": "Federal act establishing nationwide MLO licensing/registration standards via NMLS.",
+    "category": "federal"
+  },
+  {
+    "term": "E-SIGN Act",
+    "definition": "Allows electronic records/signatures when consumer consent requirements are met.",
+    "category": "federal"
+  },
+  {
+    "term": "CFPB",
+    "definition": "Federal regulator for consumer financial products; issues rules and enforces key mortgage laws.",
+    "category": "federal"
+  },
+  {
+    "term": "Regulation E",
+    "definition": "Electronic Fund Transfer Act rule (12 CFR 1005) covering EFT disclosures and errors.",
+    "category": "federal"
+  },
+  {
+    "term": "Regulation DD",
+    "definition": "Truth in Savings Act rule (12 CFR 1030) covering deposit account disclosures.",
+    "category": "federal"
+  },
+  {
+    "term": "Regulation P",
+    "definition": "Privacy of Consumer Financial Information rule (12 CFR 1016) under GLBA.",
+    "category": "federal"
+  },
+  {
+    "term": "Regulation M",
+    "definition": "Consumer Leasing Act rule (12 CFR 1013) (not mortgage-specific, but in compliance landscape).",
+    "category": "federal"
+  },
+  {
+    "term": "NMLS",
+    "definition": "Nationwide Multistate Licensing System used for MLO licensing and tracking.",
+    "category": "state"
+  },
+  {
+    "term": "NMLS unique identifier",
+    "definition": "Unique number identifying an individual MLO or company.",
+    "category": "state"
+  },
+  {
+    "term": "Pre-licensing education (PE)",
+    "definition": "Education required before obtaining an MLO license.",
+    "category": "state"
+  },
+  {
+    "term": "Continuing education (CE)",
+    "definition": "Education required to renew an MLO license.",
+    "category": "state"
+  },
+  {
+    "term": "Sponsorship",
+    "definition": "Association with a licensed company required for certain state licenses.",
+    "category": "state"
+  },
+  {
+    "term": "Background check",
+    "definition": "Criminal history check required for licensing in most states.",
+    "category": "state"
+  },
+  {
+    "term": "Credit report (licensing)",
+    "definition": "Credit report review used by some states to assess financial responsibility.",
+    "category": "state"
+  },
+  {
+    "term": "Surety bond",
+    "definition": "Bond that may be required for company licensing to protect consumers.",
+    "category": "state"
+  },
+  {
+    "term": "Branch office registration",
+    "definition": "Requirement to register or license branch locations where business is conducted.",
+    "category": "state"
+  },
+  {
+    "term": "License renewal",
+    "definition": "Annual process to keep a license active (CE, fees, attestations).",
+    "category": "state"
+  },
+  {
+    "term": "License suspension",
+    "definition": "Regulator temporarily disables license privileges.",
+    "category": "state"
+  },
+  {
+    "term": "License revocation",
+    "definition": "Regulator terminates license due to violations.",
+    "category": "state"
+  },
+  {
+    "term": "Cease-and-desist order",
+    "definition": "Order directing an entity to stop prohibited conduct.",
+    "category": "state"
+  },
+  {
+    "term": "Administrative hearing",
+    "definition": "Proceeding where licensee can respond to alleged violations.",
+    "category": "state"
+  },
+  {
+    "term": "Civil money penalty",
+    "definition": "Monetary fine assessed for violations.",
+    "category": "state"
+  },
+  {
+    "term": "Record retention",
+    "definition": "Requirement to keep loan and business records for a defined period.",
+    "category": "state"
+  },
+  {
+    "term": "Advertising requirements (state)",
+    "definition": "Rules often requiring truthful ads and NMLS ID disclosure.",
+    "category": "state"
+  },
+  {
+    "term": "Unlicensed activity",
+    "definition": "Performing MLO activity without required license/registration.",
+    "category": "state"
+  },
+  {
+    "term": "Uniform State Test (UST)",
+    "definition": "State-law content standardized across participating states for the SAFE test.",
+    "category": "state"
+  },
+  {
+    "term": "Temporary authority to originate (TA)",
+    "definition": "Authority allowing certain individuals to originate while pursuing a new license (conditions apply).",
+    "category": "state"
+  },
+  {
+    "term": "Primary mortgage market",
+    "definition": "Where mortgage loans are originated by lenders to borrowers.",
+    "category": "general"
+  },
+  {
+    "term": "Secondary mortgage market",
+    "definition": "Where existing mortgage loans are bought and sold.",
+    "category": "general"
+  },
+  {
+    "term": "Mortgage-backed security (MBS)",
+    "definition": "Security backed by pools of mortgage loans.",
+    "category": "general"
+  },
+  {
+    "term": "Fannie Mae (FNMA)",
+    "definition": "GSE that buys and securitizes conforming conventional loans.",
+    "category": "general"
+  },
+  {
+    "term": "Freddie Mac (FHLMC)",
+    "definition": "GSE that buys and securitizes conforming conventional loans.",
+    "category": "general"
+  },
+  {
+    "term": "Ginnie Mae (GNMA)",
+    "definition": "Government corporation guaranteeing MBS backed by government loans.",
+    "category": "general"
+  },
+  {
+    "term": "Conventional loan",
+    "definition": "Mortgage not insured or guaranteed by the federal government.",
+    "category": "general"
+  },
+  {
+    "term": "FHA loan",
+    "definition": "Mortgage insured by FHA; requires mortgage insurance premiums.",
+    "category": "general"
+  },
+  {
+    "term": "VA loan",
+    "definition": "Mortgage guaranteed by VA for eligible borrowers.",
+    "category": "general"
+  },
+  {
+    "term": "USDA loan",
+    "definition": "Loan for eligible rural/area borrowers; program rules apply.",
+    "category": "general"
+  },
+  {
+    "term": "Fixed-rate mortgage",
+    "definition": "Rate stays constant over the loan term.",
+    "category": "general"
+  },
+  {
+    "term": "Adjustable-rate mortgage (ARM)",
+    "definition": "Rate adjusts based on index plus margin.",
+    "category": "general"
+  },
+  {
+    "term": "Index (ARM)",
+    "definition": "Reference rate used to determine ARM adjustments.",
+    "category": "general"
+  },
+  {
+    "term": "Margin (ARM)",
+    "definition": "Fixed amount added to index to determine ARM rate.",
+    "category": "general"
+  },
+  {
+    "term": "Initial adjustment cap",
+    "definition": "Limit on ARM rate change at first adjustment.",
+    "category": "general"
+  },
+  {
+    "term": "Periodic cap",
+    "definition": "Limit on ARM rate change at each adjustment.",
+    "category": "general"
+  },
+  {
+    "term": "Lifetime cap",
+    "definition": "Maximum total ARM rate increase over life of loan.",
+    "category": "general"
+  },
+  {
+    "term": "Negative amortization",
+    "definition": "Loan balance increases because payment doesn’t cover interest.",
+    "category": "general"
+  },
+  {
+    "term": "Interest-only mortgage",
+    "definition": "Allows interest-only payments for a set period.",
+    "category": "general"
+  },
+  {
+    "term": "Balloon payment",
+    "definition": "Large final payment due at maturity.",
+    "category": "general"
+  },
+  {
+    "term": "HELOC",
+    "definition": "Open-end revolving credit secured by the home.",
+    "category": "general"
+  },
+  {
+    "term": "Home equity loan",
+    "definition": "Closed-end second mortgage secured by home equity.",
+    "category": "general"
+  },
+  {
+    "term": "Construction-to-permanent loan",
+    "definition": "Loan funding construction then converting to permanent financing.",
+    "category": "general"
+  },
+  {
+    "term": "PITI",
+    "definition": "Principal, interest, taxes, and insurance.",
+    "category": "general"
+  },
+  {
+    "term": "Escrow account",
+    "definition": "Account to pay taxes/insurance; funded by borrower payments.",
+    "category": "general"
+  },
+  {
+    "term": "Loan-to-value (LTV)",
+    "definition": "Loan amount divided by property value.",
+    "category": "general"
+  },
+  {
+    "term": "Combined loan-to-value (CLTV)",
+    "definition": "Total of all liens divided by property value.",
+    "category": "general"
+  },
+  {
+    "term": "Debt-to-income (DTI)",
+    "definition": "Total monthly debts divided by gross monthly income.",
+    "category": "general"
+  },
+  {
+    "term": "APR",
+    "definition": "Standardized cost of credit including certain fees.",
+    "category": "general"
+  },
+  {
+    "term": "Finance charge",
+    "definition": "Dollar cost of credit under TILA.",
+    "category": "general"
+  },
+  {
+    "term": "Discount point",
+    "definition": "1% of loan amount paid as prepaid interest to reduce rate.",
+    "category": "general"
+  },
+  {
+    "term": "Private Mortgage Insurance (PMI)",
+    "definition": "Insurance protecting lender on some high-LTV conventional loans.",
+    "category": "general"
+  },
+  {
+    "term": "Mortgage insurance premium (MIP)",
+    "definition": "FHA mortgage insurance (upfront and/or annual).",
+    "category": "general"
+  },
+  {
+    "term": "Title insurance",
+    "definition": "Insurance protecting against covered title defects.",
+    "category": "general"
+  },
+  {
+    "term": "Lien",
+    "definition": "Legal claim against property to secure repayment.",
+    "category": "general"
+  },
+  {
+    "term": "Forbearance",
+    "definition": "Temporary pause or reduction in payments as loss mitigation.",
+    "category": "general"
+  },
+  {
+    "term": "Loan modification",
+    "definition": "Permanent change to loan terms to make payment affordable.",
+    "category": "general"
+  },
+  {
+    "term": "Uniform Residential Loan Application (URLA/1003)",
+    "definition": "Standard application form used in residential mortgage lending.",
+    "category": "origination"
+  },
+  {
+    "term": "Loan processing",
+    "definition": "Collecting/organizing documents and ordering third-party services.",
+    "category": "origination"
+  },
+  {
+    "term": "Underwriting",
+    "definition": "Evaluating borrower and collateral to approve/deny and set conditions.",
+    "category": "origination"
+  },
+  {
+    "term": "Automated Underwriting System (AUS)",
+    "definition": "Computerized underwriting recommendation based on risk models.",
+    "category": "origination"
+  },
+  {
+    "term": "Conditional approval",
+    "definition": "Approval subject to satisfying listed conditions.",
+    "category": "origination"
+  },
+  {
+    "term": "Clear to close (CTC)",
+    "definition": "All conditions satisfied; loan can proceed to closing.",
+    "category": "origination"
+  },
+  {
+    "term": "Verification of employment (VOE)",
+    "definition": "Documenting employment and income.",
+    "category": "origination"
+  },
+  {
+    "term": "Verification of assets (VOA)",
+    "definition": "Documenting funds for closing and reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Appraisal",
+    "definition": "Opinion of value by a licensed/certified appraiser.",
+    "category": "origination"
+  },
+  {
+    "term": "Title search",
+    "definition": "Search of public records to identify ownership and liens.",
+    "category": "origination"
+  },
+  {
+    "term": "Rate lock",
+    "definition": "Agreement to hold pricing for a set time.",
+    "category": "origination"
+  },
+  {
+    "term": "Per diem interest",
+    "definition": "Interest collected at closing from closing date to first payment date.",
+    "category": "origination"
+  },
+  {
+    "term": "Prepaids",
+    "definition": "Items paid in advance at closing (interest, insurance, taxes).",
+    "category": "origination"
+  },
+  {
+    "term": "Cash to close",
+    "definition": "Total funds borrower must bring to closing after credits.",
+    "category": "origination"
+  },
+  {
+    "term": "Recording",
+    "definition": "Filing documents with county records to perfect lien/ownership.",
+    "category": "origination"
+  },
+  {
+    "term": "Mortgage fraud",
+    "definition": "Intentional misrepresentation or omission to obtain a loan or better terms.",
+    "category": "ethics"
+  },
+  {
+    "term": "Income fraud",
+    "definition": "Misstating income or employment to qualify.",
+    "category": "ethics"
+  },
+  {
+    "term": "Occupancy fraud",
+    "definition": "Misrepresenting occupancy to obtain better terms.",
+    "category": "ethics"
+  },
+  {
+    "term": "Identity theft",
+    "definition": "Using another person’s identity to obtain credit.",
+    "category": "ethics"
+  },
+  {
+    "term": "Kickback",
+    "definition": "Thing of value for referral of settlement service business (RESPA concern).",
+    "category": "ethics"
+  },
+  {
+    "term": "Steering",
+    "definition": "Directing borrower into a worse loan for compensation or benefit.",
+    "category": "ethics"
+  },
+  {
+    "term": "Disparate treatment",
+    "definition": "Intentional different treatment based on protected class.",
+    "category": "ethics"
+  },
+  {
+    "term": "Disparate impact",
+    "definition": "Neutral policy with disproportionate adverse effect without necessity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Redlining",
+    "definition": "Discouraging/denying credit based on geography tied to protected classes.",
+    "category": "ethics"
+  },
+  {
+    "term": "Bait-and-switch",
+    "definition": "Advertising terms not actually available to lure borrowers.",
+    "category": "ethics"
+  },
+  {
+    "term": "Confidentiality breach",
+    "definition": "Unauthorized disclosure of borrower nonpublic information.",
+    "category": "ethics"
+  },
+  {
+    "term": "Wire fraud",
+    "definition": "Fraud involving diversion of funds through false wiring instructions.",
+    "category": "ethics"
+  },
+  {
+    "term": "Phishing",
+    "definition": "Fraudulent messages designed to steal credentials or money.",
+    "category": "ethics"
+  },
+  {
+    "term": "Appraisal fee",
+    "definition": "Fee for property appraisal service.",
+    "category": "origination"
+  },
+  {
+    "term": "Appraisal charge",
+    "definition": "Fee for property appraisal service.",
+    "category": "origination"
+  },
+  {
+    "term": "Appraisal premium",
+    "definition": "Fee for property appraisal service.",
+    "category": "origination"
+  },
+  {
+    "term": "Credit Report fee",
+    "definition": "Fee for obtaining borrower credit report(s).",
+    "category": "origination"
+  },
+  {
+    "term": "Credit Report charge",
+    "definition": "Fee for obtaining borrower credit report(s).",
+    "category": "origination"
+  },
+  {
+    "term": "Credit Report premium",
+    "definition": "Fee for obtaining borrower credit report(s).",
+    "category": "origination"
+  },
+  {
+    "term": "Flood Determination fee",
+    "definition": "Fee for flood zone determination service.",
+    "category": "origination"
+  },
+  {
+    "term": "Flood Determination charge",
+    "definition": "Fee for flood zone determination service.",
+    "category": "origination"
+  },
+  {
+    "term": "Flood Determination premium",
+    "definition": "Fee for flood zone determination service.",
+    "category": "origination"
+  },
+  {
+    "term": "Tax Service fee",
+    "definition": "Fee for tax monitoring service.",
+    "category": "origination"
+  },
+  {
+    "term": "Tax Service charge",
+    "definition": "Fee for tax monitoring service.",
+    "category": "origination"
+  },
+  {
+    "term": "Tax Service premium",
+    "definition": "Fee for tax monitoring service.",
+    "category": "origination"
+  },
+  {
+    "term": "Underwriting fee",
+    "definition": "Fee for underwriting review.",
+    "category": "origination"
+  },
+  {
+    "term": "Underwriting charge",
+    "definition": "Fee for underwriting review.",
+    "category": "origination"
+  },
+  {
+    "term": "Underwriting premium",
+    "definition": "Fee for underwriting review.",
+    "category": "origination"
+  },
+  {
+    "term": "Processing fee",
+    "definition": "Fee for loan processing service.",
+    "category": "origination"
+  },
+  {
+    "term": "Processing charge",
+    "definition": "Fee for loan processing service.",
+    "category": "origination"
+  },
+  {
+    "term": "Processing premium",
+    "definition": "Fee for loan processing service.",
+    "category": "origination"
+  },
+  {
+    "term": "Origination fee",
+    "definition": "Fee charged for originating the loan.",
+    "category": "origination"
+  },
+  {
+    "term": "Origination charge",
+    "definition": "Fee charged for originating the loan.",
+    "category": "origination"
+  },
+  {
+    "term": "Origination premium",
+    "definition": "Fee charged for originating the loan.",
+    "category": "origination"
+  },
+  {
+    "term": "Application fee",
+    "definition": "Fee charged to take/process an application (must be disclosed).",
+    "category": "origination"
+  },
+  {
+    "term": "Application charge",
+    "definition": "Fee charged to take/process an application (must be disclosed).",
+    "category": "origination"
+  },
+  {
+    "term": "Application premium",
+    "definition": "Fee charged to take/process an application (must be disclosed).",
+    "category": "origination"
+  },
+  {
+    "term": "Courier fee",
+    "definition": "Fee for courier/delivery services.",
+    "category": "origination"
+  },
+  {
+    "term": "Courier charge",
+    "definition": "Fee for courier/delivery services.",
+    "category": "origination"
+  },
+  {
+    "term": "Courier premium",
+    "definition": "Fee for courier/delivery services.",
+    "category": "origination"
+  },
+  {
+    "term": "Wire Transfer fee",
+    "definition": "Fee for sending/receiving wired funds.",
+    "category": "origination"
+  },
+  {
+    "term": "Wire Transfer charge",
+    "definition": "Fee for sending/receiving wired funds.",
+    "category": "origination"
+  },
+  {
+    "term": "Wire Transfer premium",
+    "definition": "Fee for sending/receiving wired funds.",
+    "category": "origination"
+  },
+  {
+    "term": "Recording fee",
+    "definition": "Government fee to record documents.",
+    "category": "origination"
+  },
+  {
+    "term": "Recording charge",
+    "definition": "Government fee to record documents.",
+    "category": "origination"
+  },
+  {
+    "term": "Recording premium",
+    "definition": "Government fee to record documents.",
+    "category": "origination"
+  },
+  {
+    "term": "Settlement fee",
+    "definition": "Fee for settlement agent services.",
+    "category": "origination"
+  },
+  {
+    "term": "Settlement charge",
+    "definition": "Fee for settlement agent services.",
+    "category": "origination"
+  },
+  {
+    "term": "Settlement premium",
+    "definition": "Fee for settlement agent services.",
+    "category": "origination"
+  },
+  {
+    "term": "Escrow fee",
+    "definition": "Fee for escrow/settlement services.",
+    "category": "origination"
+  },
+  {
+    "term": "Escrow charge",
+    "definition": "Fee for escrow/settlement services.",
+    "category": "origination"
+  },
+  {
+    "term": "Escrow premium",
+    "definition": "Fee for escrow/settlement services.",
+    "category": "origination"
+  },
+  {
+    "term": "Notary fee",
+    "definition": "Fee for notarization of documents.",
+    "category": "origination"
+  },
+  {
+    "term": "Notary charge",
+    "definition": "Fee for notarization of documents.",
+    "category": "origination"
+  },
+  {
+    "term": "Notary premium",
+    "definition": "Fee for notarization of documents.",
+    "category": "origination"
+  },
+  {
+    "term": "Document Preparation fee",
+    "definition": "Fee for preparing closing documents.",
+    "category": "origination"
+  },
+  {
+    "term": "Document Preparation charge",
+    "definition": "Fee for preparing closing documents.",
+    "category": "origination"
+  },
+  {
+    "term": "Document Preparation premium",
+    "definition": "Fee for preparing closing documents.",
+    "category": "origination"
+  },
+  {
+    "term": "Attorney fee",
+    "definition": "Fee for attorney services when used/required.",
+    "category": "origination"
+  },
+  {
+    "term": "Attorney charge",
+    "definition": "Fee for attorney services when used/required.",
+    "category": "origination"
+  },
+  {
+    "term": "Attorney premium",
+    "definition": "Fee for attorney services when used/required.",
+    "category": "origination"
+  },
+  {
+    "term": "Survey fee",
+    "definition": "Fee for property survey when required.",
+    "category": "origination"
+  },
+  {
+    "term": "Survey charge",
+    "definition": "Fee for property survey when required.",
+    "category": "origination"
+  },
+  {
+    "term": "Survey premium",
+    "definition": "Fee for property survey when required.",
+    "category": "origination"
+  },
+  {
+    "term": "Pest Inspection fee",
+    "definition": "Fee for pest/termite inspection when required.",
+    "category": "origination"
+  },
+  {
+    "term": "Pest Inspection charge",
+    "definition": "Fee for pest/termite inspection when required.",
+    "category": "origination"
+  },
+  {
+    "term": "Pest Inspection premium",
+    "definition": "Fee for pest/termite inspection when required.",
+    "category": "origination"
+  },
+  {
+    "term": "Home Inspection fee",
+    "definition": "Fee for home inspection (not an appraisal).",
+    "category": "origination"
+  },
+  {
+    "term": "Home Inspection charge",
+    "definition": "Fee for home inspection (not an appraisal).",
+    "category": "origination"
+  },
+  {
+    "term": "Home Inspection premium",
+    "definition": "Fee for home inspection (not an appraisal).",
+    "category": "origination"
+  },
+  {
+    "term": "Condo Questionnaire fee",
+    "definition": "Fee for condo questionnaire or review where required.",
+    "category": "origination"
+  },
+  {
+    "term": "Condo Questionnaire charge",
+    "definition": "Fee for condo questionnaire or review where required.",
+    "category": "origination"
+  },
+  {
+    "term": "Condo Questionnaire premium",
+    "definition": "Fee for condo questionnaire or review where required.",
+    "category": "origination"
+  },
+  {
+    "term": "Verification fee",
+    "definition": "Fee for verification services (where used).",
+    "category": "origination"
+  },
+  {
+    "term": "Verification charge",
+    "definition": "Fee for verification services (where used).",
+    "category": "origination"
+  },
+  {
+    "term": "Verification premium",
+    "definition": "Fee for verification services (where used).",
+    "category": "origination"
+  },
+  {
+    "term": "Title Search fee",
+    "definition": "Fee for searching title records.",
+    "category": "origination"
+  },
+  {
+    "term": "Title Search charge",
+    "definition": "Fee for searching title records.",
+    "category": "origination"
+  },
+  {
+    "term": "Title Search premium",
+    "definition": "Fee for searching title records.",
+    "category": "origination"
+  },
+  {
+    "term": "Title Examination fee",
+    "definition": "Fee for examining title and requirements.",
+    "category": "origination"
+  },
+  {
+    "term": "Title Examination charge",
+    "definition": "Fee for examining title and requirements.",
+    "category": "origination"
+  },
+  {
+    "term": "Title Examination premium",
+    "definition": "Fee for examining title and requirements.",
+    "category": "origination"
+  },
+  {
+    "term": "Lender Title Insurance fee",
+    "definition": "Premium for lender’s title insurance policy.",
+    "category": "origination"
+  },
+  {
+    "term": "Lender Title Insurance charge",
+    "definition": "Premium for lender’s title insurance policy.",
+    "category": "origination"
+  },
+  {
+    "term": "Lender Title Insurance premium",
+    "definition": "Premium for lender’s title insurance policy.",
+    "category": "origination"
+  },
+  {
+    "term": "Owner Title Insurance fee",
+    "definition": "Premium for owner’s title insurance policy.",
+    "category": "origination"
+  },
+  {
+    "term": "Owner Title Insurance charge",
+    "definition": "Premium for owner’s title insurance policy.",
+    "category": "origination"
+  },
+  {
+    "term": "Owner Title Insurance premium",
+    "definition": "Premium for owner’s title insurance policy.",
+    "category": "origination"
+  },
+  {
+    "term": "Title Endorsement fee",
+    "definition": "Fee for title policy endorsements.",
+    "category": "origination"
+  },
+  {
+    "term": "Title Endorsement charge",
+    "definition": "Fee for title policy endorsements.",
+    "category": "origination"
+  },
+  {
+    "term": "Title Endorsement premium",
+    "definition": "Fee for title policy endorsements.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing Protection Letter fee",
+    "definition": "Fee for CPL when issued (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Closing Protection Letter charge",
+    "definition": "Fee for CPL when issued (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Closing Protection Letter premium",
+    "definition": "Fee for CPL when issued (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Overnight Delivery fee",
+    "definition": "Fee for overnight delivery/shipping.",
+    "category": "origination"
+  },
+  {
+    "term": "Overnight Delivery charge",
+    "definition": "Fee for overnight delivery/shipping.",
+    "category": "origination"
+  },
+  {
+    "term": "Overnight Delivery premium",
+    "definition": "Fee for overnight delivery/shipping.",
+    "category": "origination"
+  },
+  {
+    "term": "E-Recording fee",
+    "definition": "Fee for electronic recording.",
+    "category": "origination"
+  },
+  {
+    "term": "E-Recording charge",
+    "definition": "Fee for electronic recording.",
+    "category": "origination"
+  },
+  {
+    "term": "E-Recording premium",
+    "definition": "Fee for electronic recording.",
+    "category": "origination"
+  },
+  {
+    "term": "Hoa Transfer fee",
+    "definition": "Fee charged by HOA for transfer.",
+    "category": "origination"
+  },
+  {
+    "term": "Hoa Transfer charge",
+    "definition": "Fee charged by HOA for transfer.",
+    "category": "origination"
+  },
+  {
+    "term": "Hoa Transfer premium",
+    "definition": "Fee charged by HOA for transfer.",
+    "category": "origination"
+  },
+  {
+    "term": "Hoa Resale Package fee",
+    "definition": "Fee for HOA resale/disclosure package.",
+    "category": "origination"
+  },
+  {
+    "term": "Hoa Resale Package charge",
+    "definition": "Fee for HOA resale/disclosure package.",
+    "category": "origination"
+  },
+  {
+    "term": "Hoa Resale Package premium",
+    "definition": "Fee for HOA resale/disclosure package.",
+    "category": "origination"
+  },
+  {
+    "term": "Hoa Estoppel fee",
+    "definition": "Fee for HOA estoppel letter.",
+    "category": "origination"
+  },
+  {
+    "term": "Hoa Estoppel charge",
+    "definition": "Fee for HOA estoppel letter.",
+    "category": "origination"
+  },
+  {
+    "term": "Hoa Estoppel premium",
+    "definition": "Fee for HOA estoppel letter.",
+    "category": "origination"
+  },
+  {
+    "term": "Payoff Statement fee",
+    "definition": "Fee charged by prior lender for payoff statement (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Payoff Statement charge",
+    "definition": "Fee charged by prior lender for payoff statement (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Payoff Statement premium",
+    "definition": "Fee charged by prior lender for payoff statement (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Subordination fee",
+    "definition": "Fee for processing a subordination agreement (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Subordination charge",
+    "definition": "Fee for processing a subordination agreement (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Subordination premium",
+    "definition": "Fee for processing a subordination agreement (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Reconveyance fee",
+    "definition": "Fee for lien release/reconveyance (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Reconveyance charge",
+    "definition": "Fee for lien release/reconveyance (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Reconveyance premium",
+    "definition": "Fee for lien release/reconveyance (where applicable).",
+    "category": "origination"
+  },
+  {
+    "term": "Rush Fee fee",
+    "definition": "Additional fee for expedited service (where disclosed/allowed).",
+    "category": "origination"
+  },
+  {
+    "term": "Rush Fee charge",
+    "definition": "Additional fee for expedited service (where disclosed/allowed).",
+    "category": "origination"
+  },
+  {
+    "term": "Rush Fee premium",
+    "definition": "Additional fee for expedited service (where disclosed/allowed).",
+    "category": "origination"
+  },
+  {
+    "term": "Gift letter",
+    "definition": "Letter documenting gift funds and no repayment expectation.",
+    "category": "origination"
+  },
+  {
+    "term": "Source of funds",
+    "definition": "Documentation showing where funds came from.",
+    "category": "origination"
+  },
+  {
+    "term": "Seasoned funds",
+    "definition": "Funds with enough account history to document acceptable source.",
+    "category": "origination"
+  },
+  {
+    "term": "Large deposit letter of explanation",
+    "definition": "Borrower explanation and sourcing for a large deposit.",
+    "category": "origination"
+  },
+  {
+    "term": "Final VOE",
+    "definition": "Re-verification close to closing to confirm borrower employment.",
+    "category": "origination"
+  },
+  {
+    "term": "IRS transcript request (4506-C)",
+    "definition": "Authorization to request tax transcripts to verify filings.",
+    "category": "origination"
+  },
+  {
+    "term": "Homeowner’s insurance binder",
+    "definition": "Temporary evidence of hazard insurance coverage.",
+    "category": "origination"
+  },
+  {
+    "term": "Title commitment",
+    "definition": "Preliminary title report outlining conditions for insuring title.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing package",
+    "definition": "Set of documents prepared for borrower signature.",
+    "category": "origination"
+  },
+  {
+    "term": "Funding authorization",
+    "definition": "Approval to disburse loan proceeds.",
+    "category": "origination"
+  },
+  {
+    "term": "Post-closing audit",
+    "definition": "Review after closing to ensure compliance and completeness.",
+    "category": "origination"
+  },
+  {
+    "term": "Earnest money deposit",
+    "definition": "Deposit showing buyer’s good-faith intent to purchase.",
+    "category": "general"
+  },
+  {
+    "term": "Seller concessions",
+    "definition": "Seller-paid costs within program limits.",
+    "category": "general"
+  },
+  {
+    "term": "Lender credit",
+    "definition": "Credit from lender to offset closing costs, typically tied to pricing.",
+    "category": "general"
+  },
+  {
+    "term": "Seller credit",
+    "definition": "Credit from seller to buyer for allowable closing costs.",
+    "category": "general"
+  },
+  {
+    "term": "Assumable loan",
+    "definition": "Loan that can be assumed by a new borrower if allowed by program/lender.",
+    "category": "general"
+  },
+  {
+    "term": "Subordinate lien",
+    "definition": "Lien junior to another lien (e.g., second mortgage).",
+    "category": "general"
+  },
+  {
+    "term": "Second mortgage",
+    "definition": "Junior lien behind the first mortgage.",
+    "category": "general"
+  },
+  {
+    "term": "Due-on-sale clause",
+    "definition": "Clause allowing lender to demand payoff if property is transferred.",
+    "category": "general"
+  },
+  {
+    "term": "Acceleration clause",
+    "definition": "Clause allowing lender to demand full payoff after default.",
+    "category": "general"
+  },
+  {
+    "term": "Short sale",
+    "definition": "Sale for less than owed with lender approval.",
+    "category": "general"
+  },
+  {
+    "term": "Deed in lieu",
+    "definition": "Borrower transfers title to lender to avoid foreclosure (if accepted).",
+    "category": "general"
+  },
+  {
+    "term": "Mailbox rule (disclosures)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 2)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 2)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 2)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 2)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 2)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 2)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 2)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 2)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 2)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 2)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 2)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 2)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 2)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 2)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 2)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 2)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 2)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 3)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 3)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 3)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 3)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 3)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 3)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 3)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 3)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 3)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 3)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 3)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 3)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 3)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 3)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 3)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 3)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 3)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 4)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 4)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 4)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 4)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 4)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 4)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 4)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 4)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 4)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 4)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 4)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 4)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 4)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 4)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 4)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 4)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 4)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 5)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 5)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 5)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 5)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 5)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 5)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 5)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 5)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 5)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 5)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 5)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 5)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 5)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 5)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 5)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 5)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 5)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 6)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 6)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 6)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 6)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 6)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 6)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 6)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 6)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 6)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 6)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 6)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 6)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 6)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 6)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 6)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 6)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 6)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 7)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 7)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 7)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 7)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 7)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 7)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 7)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 7)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 7)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 7)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 7)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 7)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 7)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 7)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 7)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 7)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 7)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 8)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 8)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 8)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 8)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 8)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 8)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 8)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 8)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 8)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 8)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 8)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 8)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 8)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 8)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 8)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 8)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 8)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 9)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 9)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 9)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 9)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 9)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 9)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 9)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 9)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 9)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 9)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 9)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 9)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 9)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 9)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 9)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 9)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 9)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 10)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 10)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 10)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 10)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 10)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 10)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 10)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 10)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 10)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 10)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 10)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 10)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 10)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 10)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 10)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 10)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 10)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 11)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 11)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 11)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 11)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 11)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 11)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 11)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 11)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 11)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 11)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 11)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 11)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 11)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 11)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 11)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 11)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 11)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 12)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 12)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 12)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 12)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 12)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 12)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 12)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 12)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 12)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 12)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 12)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 12)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 12)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 12)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 12)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 12)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 12)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 13)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 13)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 13)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 13)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 13)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 13)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 13)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 13)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 13)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 13)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 13)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 13)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 13)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 13)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 13)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 13)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 13)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 14)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 14)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 14)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 14)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 14)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 14)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 14)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 14)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 14)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 14)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 14)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 14)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 14)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  },
+  {
+    "term": "Document correction agreement (practice 14)",
+    "definition": "Agreement allowing clerical corrections after closing (when used).",
+    "category": "origination"
+  },
+  {
+    "term": "Need-to-know access (practice 14)",
+    "definition": "Limit access to borrower information to those who need it.",
+    "category": "ethics"
+  },
+  {
+    "term": "Secure document disposal (practice 14)",
+    "definition": "Secure destruction of sensitive documents (e.g., shredding).",
+    "category": "ethics"
+  },
+  {
+    "term": "Multi-factor authentication (MFA) (practice 14)",
+    "definition": "Security control requiring more than one method to verify identity.",
+    "category": "ethics"
+  },
+  {
+    "term": "Mailbox rule (disclosures) (practice 15)",
+    "definition": "Assumption that certain mailed disclosures are received after a set number of business days.",
+    "category": "federal"
+  },
+  {
+    "term": "Business day (TRID) (practice 15)",
+    "definition": "Definition of business day varies by requirement (general vs. CD waiting period).",
+    "category": "federal"
+  },
+  {
+    "term": "Risk-based pricing notice (practice 15)",
+    "definition": "Notice when a consumer receives materially less favorable terms based on credit report information.",
+    "category": "federal"
+  },
+  {
+    "term": "Appraisal copy requirement (practice 15)",
+    "definition": "Requirement to provide appraisal/valuation copies promptly and before closing in many cases.",
+    "category": "federal"
+  },
+  {
+    "term": "Permissible purpose certification (practice 15)",
+    "definition": "Lender’s documentation supporting permissible purpose to obtain credit report.",
+    "category": "federal"
+  },
+  {
+    "term": "Approved course provider (practice 15)",
+    "definition": "Entity approved to deliver PE/CE for MLO licensing.",
+    "category": "state"
+  },
+  {
+    "term": "MU1 (Company Form) (practice 15)",
+    "definition": "NMLS form used for company licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU2 (Branch Form) (practice 15)",
+    "definition": "NMLS form used for branch licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU4 (Individual Form) (practice 15)",
+    "definition": "NMLS form used for individual MLO licensing filing.",
+    "category": "state"
+  },
+  {
+    "term": "MU3 (Control Person) (practice 15)",
+    "definition": "NMLS filing for control persons/owners (as applicable).",
+    "category": "state"
+  },
+  {
+    "term": "Borrower authorization form (practice 15)",
+    "definition": "Authorization to verify employment/assets and obtain third-party information.",
+    "category": "origination"
+  },
+  {
+    "term": "Proof of funds (practice 15)",
+    "definition": "Documentation showing sufficient funds for closing/reserves.",
+    "category": "origination"
+  },
+  {
+    "term": "Closing disclosure signing (practice 15)",
+    "definition": "Borrower acknowledgment/receipt of CD (timing rules apply).",
+    "category": "origination"
+  }
+]
