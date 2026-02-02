@@ -4,120 +4,108 @@
     "definition": "Where credit institutions originate loans"
   },
   {
-    "term": "life",
-    "definition": "of the loan A. The maximum rate increase at the initial adjustment"
+    "term": "Encrumbrance",
+    "definition": "Advertised term that requires additional disclosures"
   },
   {
-    "term": "Trigger Term Advertised",
-    "definition": "term that requires additional disclosures"
+    "term": "Trigger Term ",
+    "definition": "Advertised term that requires additional disclosures"
   },
   {
-    "term": "keep",
-    "definition": "from being deceptive, unfair, or otherwise violate a Commission"
+    "term": "Advertising Disclosure",
+    "definition": "An advertisement must be presented clearly and conspicuously to keep from being deceptive, unfair, or otherwise violate a Commission rule"
   },
   {
-    "term": "Waving Right",
-    "definition": "of Rescission Extenuating circumstances such as \"bona fide personal financial"
+    "term": "Waving Right of Rescission",
+    "definition": "Extenuating circumstances such as bona fide personal financial emergency"
   },
   {
-    "term": "Right",
-    "definition": "of Rescission Right that borrowers have to cancel a loan or line of credit with a"
+    "term": "Right of Rescission",
+    "definition": "Right that borrowers have to cancel a loan or line of credit with three days of closing"
   },
   {
-    "term": "lender",
-    "definition": "within three days of closing"
+    "term": "Business Day",
+    "definition": "When creditors office is open to the public, a calendar working day except Sunday or a federal holiday"
   },
   {
-    "term": "except Sunday",
-    "definition": "or a federal holiday"
+    "term": "Application",
+    "definition": "Financial information used for purposes of obtaining an extension of credit"
   },
   {
-    "term": "TILA",
-    "definition": "Enacted 1968 promotes the informed use of consumer credit by"
+    "term": "TILA- Truth in Lending Act",
+    "definition": "Enacted 1968 promotes the informed use of consumer credit by requiring disclosures about terms and costs and standardizes the manner in which costs with borrowing are calculated and disclosed"
   },
   {
-    "term": "Truth",
-    "definition": "in Lending Act requiring disclosures about terms and costs and standardizes the"
+    "term": "CFPB",
+    "definition": "Consumer Financial Protection Bureau- Regulatory agency charged with overseeing financial products and servics offered to consumers"
   },
   {
-    "term": "manner",
-    "definition": "in which costs with borrowing are calculated and disclosed"
+    "term": "FTC Federal Trade Commmission",
+    "definition": "Mission is to promote consumer protection and eliminate and prevent anticompetitive business practices."
   },
   {
-    "term": "Per Diem",
-    "definition": "Interest Interest charged on a loan for one or more days"
+    "term": "Per Diem Interest",
+    "definition": "Interest charged on a loan for one or more days"
   },
   {
-    "term": "Interest Only",
-    "definition": "Mortgage Mortgage where the mortgagor is only required to pay off the"
+    "term": "Interest Only Mortgage",
+    "definition": "Mortgage where the mortgagor is only required to pay off the interest that arises from the principal that is borrowed for a set period"
   },
   {
-    "term": "interest",
-    "definition": "that arises from the principal that is borrowed for a set period"
+    "term": "Annual Interest Rate Formula",
+    "definition": "Principal (X) Interest Rate= Annual Interest Rate"
   },
   {
     "term": "Permanent Buydown",
-    "definition": "Borrower chooses to pay additional \"discount points\" to buy down"
+    "definition": "Borrower chooses to pay additional "discount points" to buy down the interest rate for the life of the mortgage note."
   },
   {
-    "term": "the",
-    "definition": "interest rate for the life of the mortgage note"
+    "term": "2/1 Buydown",
+    "definition": "Used on fixed rate loans over two years Set of two initial temporary-start interest rates that increase in stair- step fashion until a permanent interest rate is reached"
   },
   {
-    "term": "Set",
-    "definition": "of two initial temporary-start interest rates that increase in stair-"
+    "term": "Discount Point",
+    "definition": "A form of pre-paid interest which effectively increases the yield on the loan above the amount of the stated interest rate"
   },
   {
-    "term": "step",
-    "definition": "fashion until a permanent interest rate is reached"
+    "term": "CLTV-Combined Loan to Value",
+    "definition": "An amount in addition to the Loan to Value, which simply represents the first position mortgage or loan as a percentage of the property's value"
   },
   {
     "term": "LTV",
     "definition": "Ratio of a loan to the value of an asset purchased"
   },
   {
-    "term": "PITI Principal,",
-    "definition": "Interest, Taxes, Insurance"
+    "term": "PITI",
+    "definition": "Principal, Interest, Taxes, Insurance"
   },
   {
-    "term": "Refers",
-    "definition": "to the components of a mortgage payment"
+    "term": "Forbearance",
+    "definition": "Agreement between the lender and the borrower to delay foreclosures"
   },
   {
-    "term": "Ratio",
-    "definition": "that measures an individual's ability to manage monthly"
+    "term": "Satisfaction of Mortgage Letter",
+    "definition": "Document generated and signed by a mortgage lender, acknowledging that the borrower has paid off the mortgage loan in full and the mortgage is not a lien on the property"
   },
   {
-    "term": "payment",
-    "definition": "and repay debts"
+    "term": "Subordination Agreement",
+    "definition": "When two mortgages are on a property, this specifies which mortgage takes precedence"
   },
   {
     "term": "Loan Modification",
-    "definition": "A permanent restructuring of the mortgage where one or more of"
+    "definition": "A permanent restructuring of the mortgage where one or more of the terms of a borrower's loan are changed to provide a more affordable payment"
   },
   {
-    "term": "Satisfaction",
-    "definition": "of Mortgage Letter Document generated and signed by a mortgage lender,"
+    "term": "Subordination Agreement",
+    "definition": "When two mortgages are on a property, this specifies which"
   },
   {
-    "term": "acknowledging",
-    "definition": "that the borrower has paid off the mortgage loan in"
+    "term": "Payoff Statement ",
+    "definition": "Provides homeowner proof the mortgage is paid off"
   },
   {
-    "term": "full",
-    "definition": "and the mortgage is not a lien on the property"
-  },
-  {
-    "term": "Subordination",
-    "definition": "Agreement When two mortgages are on a property, this specifies which"
-  },
-  {
-    "term": "Payoff Statement Provides",
-    "definition": "homeowner proof the mortgage is paid off"
-  },
-  {
-    "term": "Inquiry Note Information",
-    "definition": "that should compel a reasonable person to make further"
+    "term": "Inquiry Note",
+    "definition": "Information that should compel a reasonable person to make further"
   },
   {
     "term": "inquiries",
