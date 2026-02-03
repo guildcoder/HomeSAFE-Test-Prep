@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "q001",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What triggers the Loan Estimate disclosure under TRID?",
+    "choices": [
+      "Credit approval",
+      "A completed application",
+      "Intent to proceed",
+      "Closing date scheduled"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q002",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What law requires the Loan Estimate within 3 business days?",
+    "choices": [
+      "RESPA",
+      "ECOA",
+      "TILA",
+      "HMDA"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q003",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "Which loan type typically includes a funding fee?",
+    "choices": [
+      "Conventional",
+      "FHA",
+      "VA",
+      "Jumbo"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: VA is the best answer."
+  },
+  {
+    "id": "q004",
+    "category": "ethics",
+    "type": "mcq",
+    "prompt": "What is loan flipping?",
+    "choices": [
+      "Selling loans in secondary market",
+      "Helping a borrower refinance",
+      "Repeated refinancing for lender gain",
+      "Adjusting an ARM to a fixed rate"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ethics/fraud issue: Repeated refinancing for lender gain describes prohibited or high-risk conduct tested on the SAFE exam."
+  },
+  {
+    "id": "q005",
+    "category": "state",
+    "type": "mcq",
+    "prompt": "Who issues MLO licenses at the state level?",
+    "choices": [
+      "The CFPB",
+      "State regulatory authority",
+      "The NMLS",
+      "Federal Reserve"
+    ],
+    "answerIndex": 1,
+    "explanation": "State licensing/enforcement concept: State regulatory authority is the correct authority/requirement under SAFE/NMLS-related rules."
+  },
+  {
+    "id": "q006",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Under ECOA, how long must you retain adverse action records?",
+    "choices": [
+      "12 months",
+      "25 months",
+      "36 months",
+      "60 months"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q007",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What does the back-end DTI ratio include?",
+    "choices": [
+      "Housing payment only",
+      "Gross income",
+      "Total monthly debt ÷ gross income",
+      "Net income ÷ total debt"
+    ],
+    "answerIndex": 2,
+    "explanation": "Origination/underwriting concept: Total monthly debt ÷ gross income is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q008",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "An MLO pays $200 to a real estate agent for referrals. What law is violated?",
+    "choices": [
+      "TILA",
+      "RESPA Section 8",
+      "ECOA",
+      "GLBA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q009",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the primary purpose of mortgage insurance?",
+    "choices": [
+      "Protect the borrower’s credit",
+      "Reduce closing costs",
+      "Protect the lender from default",
+      "Protect the property from damage"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Protect the lender from default is the best answer."
+  },
+  {
+    "id": "q010",
+    "category": "state",
+    "type": "mcq",
+    "prompt": "What can a state agency issue to immediately stop an MLO’s activity?",
+    "choices": [
+      "Notice of action taken",
+      "Temporary license",
+      "Cease and desist order",
+      "Warning letter"
+    ],
+    "answerIndex": 2,
+    "explanation": "State licensing/enforcement concept: Cease and desist order is the correct authority/requirement under SAFE/NMLS-related rules."
+  },
+  {
+    "id": "q011",
+    "category": "ethics",
+    "type": "mcq",
+    "prompt": "What is the primary goal of HMDA?",
+    "choices": [
+      "Prevent money laundering",
+      "Promote ARM disclosures",
+      "Track lending and prevent discrimination",
+      "Stop loan flipping"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ethics/fraud issue: Track lending and prevent discrimination describes prohibited or high-risk conduct tested on the SAFE exam."
+  },
+  {
+    "id": "q012",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What must be delivered 3 business days before consummation?",
+    "choices": [
+      "Loan Estimate",
+      "Good Faith Estimate",
+      "Mortgage Servicing Disclosure",
+      "Closing Disclosure"
+    ],
+    "answerIndex": 3,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q013",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Which law prohibits discrimination based on age, marital status, or sex?",
+    "choices": [
+      "TILA",
+      "RESPA",
+      "ECOA",
+      "HMDA"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q014",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What is considered a high-cost mortgage under HOEPA?",
+    "choices": [
+      "One with DTI over 43%",
+      "One with balloon payment",
+      "One exceeding APR or fee thresholds",
+      "One that’s interest-only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q015",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What must be included in the finance charge?",
+    "choices": [
+      "Late fees",
+      "Property taxes",
+      "Origination fees",
+      "Down payment"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q016",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What booklet is required for borrowers receiving an ARM?",
+    "choices": [
+      "Home Loan Toolkit",
+      "CHARM Booklet",
+      "Right to Receive Appraisal",
+      "Servicing Disclosure"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q017",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Which form discloses the full cost of the loan to the borrower?",
+    "choices": [
+      "HUD-1",
+      "LE (Loan Estimate)",
+      "Title Insurance Form",
+      "Appraisal Notice"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q018",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "Which is a red flag for identity theft under Red Flags Rule?",
+    "choices": [
+      "Borrower is self-employed",
+      "Borrower has 2 jobs",
+      "SSN doesn’t match name",
+      "High credit score"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: SSN doesn’t match name is the best answer."
+  },
+  {
+    "id": "q019",
+    "category": "ethics",
+    "type": "mcq",
+    "prompt": "What is the purpose of the SAFE Act?",
+    "choices": [
+      "Set insurance requirements",
+      "Eliminate loan flipping",
+      "Create nationwide licensing standards",
+      "Reduce foreclosure rates"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ethics/fraud issue: Create nationwide licensing standards describes prohibited or high-risk conduct tested on the SAFE exam."
+  },
+  {
+    "id": "q020",
+    "category": "state",
+    "type": "mcq",
+    "prompt": "Who maintains the NMLS system?",
+    "choices": [
+      "CFPB",
+      "HUD",
+      "CSBS & AARMR",
+      "FDIC"
+    ],
+    "answerIndex": 2,
+    "explanation": "State licensing/enforcement concept: CSBS & AARMR is the correct authority/requirement under SAFE/NMLS-related rules."
+  },
+  {
+    "id": "q021",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What is the maximum escrow cushion under RESPA?",
+    "choices": [
+      "1 month",
+      "2 months",
+      "3 months",
+      "5 months"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q022",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What loan has interest that adjusts based on a financial index?",
+    "choices": [
+      "Fixed-rate mortgage",
+      "Reverse mortgage",
+      "Balloon loan",
+      "ARM"
+    ],
+    "answerIndex": 3,
+    "explanation": "Origination/underwriting concept: ARM is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q023",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What does APR include that note rate does not?",
+    "choices": [
+      "Property taxes",
+      "Finance charges",
+      "Principal balance",
+      "Down payment"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q024",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What is the front-end ratio?",
+    "choices": [
+      "Total debts ÷ income",
+      "Housing payment ÷ income",
+      "PITI + liabilities ÷ income",
+      "Taxes ÷ income"
+    ],
+    "answerIndex": 1,
+    "explanation": "Origination/underwriting concept: Housing payment ÷ income is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q025",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "When is the ABA disclosure required?",
+    "choices": [
+      "At loan closing",
+      "Before LE is issued",
+      "At time of referral",
+      "With the CD"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: At time of referral is the best answer."
+  },
+  {
+    "id": "q026",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Who enforces TILA compliance?",
+    "choices": [
+      "HUD",
+      "CFPB",
+      "FTC",
+      "VA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q027",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "Which of the following is NOT allowed in a Qualified Mortgage?",
+    "choices": [
+      "30-year term",
+      "Points and fees under 3%",
+      "Balloon payments",
+      "Fully amortizing payments"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Balloon payments is the best answer."
+  },
+  {
+    "id": "q028",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What must the borrower do before an appraisal is ordered?",
+    "choices": [
+      "Sign closing documents",
+      "Pay discount points",
+      "Provide intent to proceed",
+      "Lock the rate"
+    ],
+    "answerIndex": 2,
+    "explanation": "Origination/underwriting concept: Provide intent to proceed is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q029",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Which law governs identity theft prevention and credit file accuracy?",
+    "choices": [
+      "TILA",
+      "RESPA",
+      "FACTA",
+      "HOEPA"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q030",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "The right of rescission applies to which transaction?",
+    "choices": [
+      "FHA purchase",
+      "VA purchase",
+      "Investment property refinance",
+      "Owner-occupied refinance"
+    ],
+    "answerIndex": 3,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q031",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What must be included in an Adverse Action Notice?",
+    "choices": [
+      "Credit score",
+      "Closing date",
+      "Reason for denial",
+      "Annual income"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q032",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "Which loan requires mortgage insurance for the life of the loan with >90% LTV?",
+    "choices": [
+      "Conventional",
+      "FHA",
+      "VA",
+      "USDA"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: FHA is the best answer."
+  },
+  {
+    "id": "q033",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "Who guarantees VA loans?",
+    "choices": [
+      "HUD",
+      "Fannie Mae",
+      "Veterans Affairs",
+      "Ginnie Mae"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Veterans Affairs is the best answer."
+  },
+  {
+    "id": "q034",
+    "category": "state",
+    "type": "mcq",
+    "prompt": "Which form is used to apply for MLO licensing?",
+    "choices": [
+      "MU1",
+      "MU2",
+      "MU3",
+      "MU4"
+    ],
+    "answerIndex": 3,
+    "explanation": "State licensing/enforcement concept: MU4 is the correct authority/requirement under SAFE/NMLS-related rules."
+  },
+  {
+    "id": "q035",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the civil penalty for violating the SAFE Act?",
+    "choices": [
+      "$5,000",
+      "$10,000",
+      "$25,000",
+      "$50,000"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: $25,000 is the best answer."
+  },
+  {
+    "id": "q036",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the purpose of the Servicing Disclosure?",
+    "choices": [
+      "Notify borrower of rate changes",
+      "Inform borrower of escrow limits",
+      "Explain who will service the loan",
+      "Confirm title insurance"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Explain who will service the loan is the best answer."
+  },
+  {
+    "id": "q037",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What type of loan is eligible for USDA financing?",
+    "choices": [
+      "Vacation home",
+      "Investment property",
+      "Condo in urban area",
+      "Rural primary residence"
+    ],
+    "answerIndex": 3,
+    "explanation": "General mortgage program/product concept: Rural primary residence is the best answer."
+  },
+  {
+    "id": "q038",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What does “net tangible benefit” mean?",
+    "choices": [
+      "Lender earns higher yield",
+      "Borrower gains a clear advantage",
+      "Discount points are applied",
+      "Monthly payment is delayed"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Borrower gains a clear advantage is the best answer."
+  },
+  {
+    "id": "q039",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Which disclosure is required by RESPA for purchase transactions?",
+    "choices": [
+      "CHARM booklet",
+      "Home Loan Toolkit",
+      "Risk-Based Pricing Notice",
+      "Privacy Policy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q040",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the purpose of an appraisal?",
+    "choices": [
+      "Set loan amount",
+      "Determine borrower income",
+      "Provide market value opinion",
+      "Assess property tax"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Provide market value opinion is the best answer."
+  },
+  {
+    "id": "q041",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Who must receive the Closing Disclosure at least 3 business days before closing?",
+    "choices": [
+      "Lender",
+      "Seller",
+      "Borrower",
+      "Appraiser"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q042",
+    "category": "ethics",
+    "type": "mcq",
+    "prompt": "The BSA/AML rules are primarily designed to prevent:",
+    "choices": [
+      "Loan flipping",
+      "Steering",
+      "Money laundering",
+      "Redlining"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ethics/fraud issue: Money laundering describes prohibited or high-risk conduct tested on the SAFE exam."
+  },
+  {
+    "id": "q043",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Which fee is subject to zero tolerance under TRID?",
+    "choices": [
+      "Title search fee",
+      "Transfer taxes",
+      "Owner’s title policy",
+      "Home inspection"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q044",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is a balloon mortgage?",
+    "choices": [
+      "Loan with regular increases",
+      "Loan with final large payment",
+      "Loan with deferred interest",
+      "Fully amortizing loan"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Loan with final large payment is the best answer."
+  },
+  {
+    "id": "q045",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What happens if the LE isn’t delivered within 3 business days?",
+    "choices": [
+      "Loan must be canceled",
+      "CD must be reissued",
+      "TRID violation occurs",
+      "APR is adjusted"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q046",
+    "category": "ethics",
+    "type": "mcq",
+    "prompt": "What does the ECOA Valuations Rule require?",
+    "choices": [
+      "Disclose yield spread",
+      "Provide appraisal copies",
+      "Allow steering",
+      "Report demographic data"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ethics/fraud issue: Provide appraisal copies describes prohibited or high-risk conduct tested on the SAFE exam."
+  },
+  {
+    "id": "q047",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Which law governs mortgage advertising terms?",
+    "choices": [
+      "RESPA",
+      "TILA",
+      "ECOA",
+      "GLBA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q048",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What must happen before e-signatures can be used?",
+    "choices": [
+      "Closing must be scheduled",
+      "Intent to proceed",
+      "Written consent under ESIGN Act",
+      "Verification from title company"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q049",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What is included in the APR that is not in the note rate?",
+    "choices": [
+      "Property taxes",
+      "Loan amount",
+      "Finance charges",
+      "Term of loan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q050",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What is an origination fee?",
+    "choices": [
+      "Fee for home inspection",
+      "Broker’s compensation",
+      "Fee to process the loan",
+      "Fee to record documents"
+    ],
+    "answerIndex": 2,
+    "explanation": "Origination/underwriting concept: Fee to process the loan is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q051",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is a HELOC?",
+    "choices": [
+      "High-efficiency loan option",
+      "Home equity line of credit",
+      "Housing eligibility loan",
+      "HUD energy loan"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Home equity line of credit is the best answer."
+  },
+  {
+    "id": "q052",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Who enforces the Fair Credit Reporting Act (FCRA)?",
+    "choices": [
+      "FDIC",
+      "FTC and CFPB",
+      "Federal Reserve",
+      "Department of Housing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q053",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Which of the following is a “triggering term” under TILA advertising rules?",
+    "choices": [
+      "“Easy to qualify”",
+      "“Flexible terms”",
+      "“5% down payment”",
+      "“Low monthly payments”"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q054",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "Which loan types are assumable?",
+    "choices": [
+      "Conventional only",
+      "FHA and VA",
+      "Jumbo and Non-QM",
+      "USDA only"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: FHA and VA is the best answer."
+  },
+  {
+    "id": "q055",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What does hypothecation refer to?",
+    "choices": [
+      "Title transfer",
+      "Pledging property as collateral",
+      "Mortgage assumption",
+      "Funding loan with warehouse line"
+    ],
+    "answerIndex": 1,
+    "explanation": "Origination/underwriting concept: Pledging property as collateral is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q056",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the purpose of a lock-in agreement?",
+    "choices": [
+      "Guarantees closing costs",
+      "Protects borrower from rising rates",
+      "Allows switching lenders",
+      "Locks in appraisal value"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Protects borrower from rising rates is the best answer."
+  },
+  {
+    "id": "q057",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "In ARM loans, what is an index?",
+    "choices": [
+      "Government-required disclosure",
+      "Borrower’s income formula",
+      "Variable benchmark rate",
+      "Lender’s margin"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Variable benchmark rate is the best answer."
+  },
+  {
+    "id": "q058",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What does the 3/7/3 rule refer to?",
+    "choices": [
+      "RESPA timing",
+      "Right of rescission",
+      "TILA disclosures and waiting periods",
+      "SAFE Act deadlines"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q059",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the function of the secondary market?",
+    "choices": [
+      "Provide low-income housing",
+      "Offer insurance on loans",
+      "Buy and sell closed mortgage loans",
+      "Regulate advertising practices"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Buy and sell closed mortgage loans is the best answer."
+  },
+  {
+    "id": "q060",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What is the fully indexed rate?",
+    "choices": [
+      "Rate after prepayment penalty",
+      "Index plus margin",
+      "Discounted start rate",
+      "APR without closing costs"
+    ],
+    "answerIndex": 1,
+    "explanation": "Origination/underwriting concept: Index plus margin is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q061",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What triggers a revised Loan Estimate?",
+    "choices": [
+      "Borrower’s birthday",
+      "Change of circumstance",
+      "Closing date selected",
+      "Loan funding"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q062",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What constitutes a complete loan application under TRID?",
+    "choices": [
+      "Name, address, and property type",
+      "SSN, credit score, and loan amount",
+      "Six required items including property address and loan amount",
+      "Appraisal ordered"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q063",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "Who is ultimately responsible for verifying the borrower’s ability to repay?",
+    "choices": [
+      "The borrower",
+      "The loan processor",
+      "The lender",
+      "The underwriter"
+    ],
+    "answerIndex": 2,
+    "explanation": "Origination/underwriting concept: The lender is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q064",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is a piggyback loan used for?",
+    "choices": [
+      "Pay off student loans",
+      "Avoid PMI",
+      "Lower property taxes",
+      "Purchase investment property"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Avoid PMI is the best answer."
+  },
+  {
+    "id": "q065",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "When must an appraisal be delivered to the borrower?",
+    "choices": [
+      "3 days after application",
+      "At closing",
+      "At least 3 business days before consummation",
+      "When LE is provided"
+    ],
+    "answerIndex": 2,
+    "explanation": "Origination/underwriting concept: At least 3 business days before consummation is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q066",
+    "category": "ethics",
+    "type": "mcq",
+    "prompt": "What is loan churning?",
+    "choices": [
+      "Selling loans to multiple investors",
+      "Multiple appraisals ordered",
+      "Repeated refinances for lender profit",
+      "Overcharging for services"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ethics/fraud issue: Repeated refinances for lender profit describes prohibited or high-risk conduct tested on the SAFE exam."
+  },
+  {
+    "id": "q067",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What are discount points?",
+    "choices": [
+      "Fee to reduce interest rate",
+      "Fee for locking a rate",
+      "Appraisal fee",
+      "Late payment penalties"
+    ],
+    "answerIndex": 0,
+    "explanation": "Origination/underwriting concept: Fee to reduce interest rate is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q068",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "Who does mortgage insurance protect?",
+    "choices": [
+      "The borrower",
+      "The underwriter",
+      "The lender",
+      "The realtor"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: The lender is the best answer."
+  },
+  {
+    "id": "q069",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is a prepayment penalty?",
+    "choices": [
+      "Fee for refinancing",
+      "Fee for closing late",
+      "Fee for paying loan off early",
+      "Extra escrow charges"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Fee for paying loan off early is the best answer."
+  },
+  {
+    "id": "q070",
+    "category": "state",
+    "type": "mcq",
+    "prompt": "What triggers HMDA reporting?",
+    "choices": [
+      "Cash transactions",
+      "Use of MLO license",
+      "Specific loan purpose and dwelling type",
+      "Preapprovals only"
+    ],
+    "answerIndex": 2,
+    "explanation": "State licensing/enforcement concept: Specific loan purpose and dwelling type is the correct authority/requirement under SAFE/NMLS-related rules."
+  },
+  {
+    "id": "q071",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What does APOR stand for?",
+    "choices": [
+      "Adjustable Prime Offer Rate",
+      "Average Principal Offer Rate",
+      "Annual Prime Offer Rate",
+      "Average Prime Offer Rate"
+    ],
+    "answerIndex": 3,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q072",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the maximum front-end DTI for FHA loans?",
+    "choices": [
+      "28%",
+      "30%",
+      "31%",
+      "36%"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: 31% is the best answer."
+  },
+  {
+    "id": "q073",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the maximum back-end DTI for standard FHA loans?",
+    "choices": [
+      "41%",
+      "43%",
+      "45%",
+      "50%"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: 43% is the best answer."
+  },
+  {
+    "id": "q074",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What law protects consumers from identity theft and requires red flags monitoring?",
+    "choices": [
+      "ECOA",
+      "RESPA",
+      "FACTA",
+      "TILA"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q075",
+    "category": "ethics",
+    "type": "mcq",
+    "prompt": "What is redlining?",
+    "choices": [
+      "Denying loans based on borrower credit",
+      "Overcharging veterans",
+      "Discriminatory lending based on geographic area",
+      "Selling loans above market value"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ethics/fraud issue: Discriminatory lending based on geographic area describes prohibited or high-risk conduct tested on the SAFE exam."
+  },
+  {
+    "id": "q076",
+    "category": "ethics",
+    "type": "mcq",
+    "prompt": "What is considered illegal steering?",
+    "choices": [
+      "Referring clients to preferred realtors",
+      "Directing clients to products that benefit the MLO over the borrower",
+      "Suggesting home insurance providers",
+      "Disclosing loan terms in writing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ethics/fraud issue: Directing clients to products that benefit the MLO over the borrower describes prohibited or high-risk conduct tested on the SAFE exam."
+  },
+  {
+    "id": "q077",
+    "category": "state",
+    "type": "mcq",
+    "prompt": "How many hours of continuing education must MLOs complete annually?",
+    "choices": [
+      "6",
+      "7",
+      "8",
+      "10"
+    ],
+    "answerIndex": 2,
+    "explanation": "State licensing/enforcement concept: 8 is the correct authority/requirement under SAFE/NMLS-related rules."
+  },
+  {
+    "id": "q078",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the MAP Rule concerned with?",
+    "choices": [
+      "Loan pricing rules",
+      "Advertising and marketing of mortgage products",
+      "Flood insurance",
+      "Minimum down payments"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Advertising and marketing of mortgage products is the best answer."
+  },
+  {
+    "id": "q079",
+    "category": "ethics",
+    "type": "mcq",
+    "prompt": "The Gramm-Leach-Bliley Act (GLBA) primarily addresses what issue?",
+    "choices": [
+      "Anti-money laundering",
+      "Loan flipping",
+      "Consumer financial privacy",
+      "Interest rate adjustments"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ethics/fraud issue: Consumer financial privacy describes prohibited or high-risk conduct tested on the SAFE exam."
+  },
+  {
+    "id": "q080",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What must be included in a Notice of Action Taken?",
+    "choices": [
+      "Estimated closing date",
+      "Title company info",
+      "Reason for credit denial or approval",
+      "Property appraisal"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Reason for credit denial or approval is the best answer."
+  },
+  {
+    "id": "q081",
+    "category": "state",
+    "type": "mcq",
+    "prompt": "Who is exempt from MLO licensing under the SAFE Act?",
+    "choices": [
+      "Real estate agents",
+      "Appraisers",
+      "Bank employees registered with the NMLS",
+      "Title agents"
+    ],
+    "answerIndex": 2,
+    "explanation": "State licensing/enforcement concept: Bank employees registered with the NMLS is the correct authority/requirement under SAFE/NMLS-related rules."
+  },
+  {
+    "id": "q082",
+    "category": "state",
+    "type": "mcq",
+    "prompt": "What is a temporary license called under the SAFE Act?",
+    "choices": [
+      "Provisional permit",
+      "Conditional approval",
+      "Temporary authority",
+      "Express credential"
+    ],
+    "answerIndex": 2,
+    "explanation": "State licensing/enforcement concept: Temporary authority is the correct authority/requirement under SAFE/NMLS-related rules."
+  },
+  {
+    "id": "q083",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What is a warehouse line of credit?",
+    "choices": [
+      "Credit card for mortgage lenders",
+      "Short-term funding source for lenders to close loans",
+      "Fund to hold appraisals",
+      "Borrower’s emergency savings"
+    ],
+    "answerIndex": 1,
+    "explanation": "Origination/underwriting concept: Short-term funding source for lenders to close loans is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q084",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What event triggers the right of rescission?",
+    "choices": [
+      "VA purchase",
+      "Investment property refinance",
+      "Primary residence refinance",
+      "FHA assumption"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q085",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the purpose of flood certification?",
+    "choices": [
+      "Check zoning",
+      "Determine flood zone status",
+      "Ensure fair lending",
+      "Validate escrow balances"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Determine flood zone status is the best answer."
+  },
+  {
+    "id": "q086",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "Which of the following is a feature of a Qualified Mortgage (QM)?",
+    "choices": [
+      "Negative amortization",
+      "Balloon payment",
+      "Fully amortizing payments",
+      "Prepayment penalties"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Fully amortizing payments is the best answer."
+  },
+  {
+    "id": "q087",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What legal document must be recorded after closing?",
+    "choices": [
+      "Deed or deed of trust",
+      "Loan estimate",
+      "CHARM booklet",
+      "Credit report"
+    ],
+    "answerIndex": 0,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q088",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What signals the borrower has accepted the Loan Estimate?",
+    "choices": [
+      "Signed GFE",
+      "Intent to proceed",
+      "Submitted credit report",
+      "Signed Closing Disclosure"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q089",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What is a float-down option?",
+    "choices": [
+      "Borrower can adjust term",
+      "Borrower can lower interest rate after locking",
+      "Allows for temporary payments",
+      "Post-closing modification"
+    ],
+    "answerIndex": 1,
+    "explanation": "Origination/underwriting concept: Borrower can lower interest rate after locking is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q090",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "Which of the following is included in the finance charge under TILA?",
+    "choices": [
+      "Title insurance",
+      "Appraisal",
+      "Broker fees",
+      "Escrow deposit"
+    ],
+    "answerIndex": 2,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q091",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the purpose of ARM disclosures?",
+    "choices": [
+      "List late fees",
+      "Explain risks and features of variable interest rates",
+      "Disclose seller concessions",
+      "Identify appraisal options"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Explain risks and features of variable interest rates is the best answer."
+  },
+  {
+    "id": "q092",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "When must the Home Loan Toolkit be provided?",
+    "choices": [
+      "At closing",
+      "Within 3 business days of application",
+      "Within 10 days of approval",
+      "At time of appraisal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q093",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "How many state-specific questions are on the national SAFE exam?",
+    "choices": [
+      "10",
+      "25",
+      "35",
+      "0 (separate test)"
+    ],
+    "answerIndex": 3,
+    "explanation": "General mortgage program/product concept: 0 (separate test) is the best answer."
+  },
+  {
+    "id": "q094",
+    "category": "state",
+    "type": "mcq",
+    "prompt": "Which of the following is a prohibited act under the SAFE Act?",
+    "choices": [
+      "Providing LE without credit pull",
+      "Employing unlicensed originators",
+      "Advising on down payment sources",
+      "Offering government loans"
+    ],
+    "answerIndex": 1,
+    "explanation": "State licensing/enforcement concept: Employing unlicensed originators is the correct authority/requirement under SAFE/NMLS-related rules."
+  },
+  {
+    "id": "q095",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is allowed in a Non-Qualified Mortgage (Non-QM)?",
+    "choices": [
+      "Negative amortization",
+      "Interest-only payments",
+      "Prepayment penalties",
+      "Balloon payment in all cases"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Interest-only payments is the best answer."
+  },
+  {
+    "id": "q096",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What’s the max point and fee limit for a QM loan > $130,461?",
+    "choices": [
+      "1%",
+      "2%",
+      "3%",
+      "4%"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: 3% is the best answer."
+  },
+  {
+    "id": "q097",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the purpose of an appraisal review?",
+    "choices": [
+      "Approve borrower",
+      "Determine PMI",
+      "Verify property value accuracy",
+      "Approve flood zones"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Verify property value accuracy is the best answer."
+  },
+  {
+    "id": "q098",
+    "category": "ethics",
+    "type": "mcq",
+    "prompt": "What does RESPA Section 9 prohibit?",
+    "choices": [
+      "Kickbacks",
+      "Requiring use of a specific title company",
+      "Overcharging appraisal",
+      "Using trigger terms"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ethics/fraud issue: Requiring use of a specific title company describes prohibited or high-risk conduct tested on the SAFE exam."
+  },
+  {
+    "id": "q099",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is an AVM?",
+    "choices": [
+      "Audio valuation method",
+      "Automated Valuation Model",
+      "Alternative variable margin",
+      "Adjustable vendor metric"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Automated Valuation Model is the best answer."
+  },
+  {
+    "id": "q100",
+    "category": "federal",
+    "type": "mcq",
+    "prompt": "What is a payoff statement?",
+    "choices": [
+      "Loan estimate",
+      "Total due to close loan",
+      "Remaining property value",
+      "Prequalification notice"
+    ],
+    "answerIndex": 1,
+    "explanation": "Federal disclosure/compliance rule: the correct answer best matches the required definition or timing for this requirement."
+  },
+  {
+    "id": "q101",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the occupancy requirement for VA loans?",
+    "choices": [
+      "Must occupy within 30 days",
+      "Must occupy within 60 days",
+      "Must occupy within 90 days",
+      "No occupancy requirement"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Must occupy within 60 days is the best answer."
+  },
+  {
+    "id": "q102",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the purpose of the VA funding fee?",
+    "choices": [
+      "Lower interest rate",
+      "Pay lender compensation",
+      "Sustain the VA loan guarantee program",
+      "Pay for private mortgage insurance"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Sustain the VA loan guarantee program is the best answer."
+  },
+  {
+    "id": "q103",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What is a mortgage recast?",
+    "choices": [
+      "Loan modification",
+      "Restructuring terms after delinquency",
+      "Recalculating amortization after lump-sum payment",
+      "Paying off mortgage early"
+    ],
+    "answerIndex": 2,
+    "explanation": "Origination/underwriting concept: Recalculating amortization after lump-sum payment is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q104",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the maximum term for a balloon QM loan in rural areas?",
+    "choices": [
+      "15 years",
+      "20 years",
+      "25 years",
+      "30 years"
+    ],
+    "answerIndex": 3,
+    "explanation": "General mortgage program/product concept: 30 years is the best answer."
+  },
+  {
+    "id": "q105",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the minimum down payment required for an FHA loan?",
+    "choices": [
+      "1%",
+      "3%",
+      "3.5%",
+      "5%"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: 3.5% is the best answer."
+  },
+  {
+    "id": "q106",
+    "category": "ethics",
+    "type": "mcq",
+    "prompt": "What law regulates MLO compensation to avoid steering?",
+    "choices": [
+      "RESPA",
+      "TILA",
+      "ECOA",
+      "FACTA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ethics/fraud issue: TILA describes prohibited or high-risk conduct tested on the SAFE exam."
+  },
+  {
+    "id": "q107",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is a wraparound mortgage?",
+    "choices": [
+      "Loan secured by furniture",
+      "Loan that covers closing costs",
+      "New loan that includes balance of previous loan",
+      "Second mortgage for renovations"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: New loan that includes balance of previous loan is the best answer."
+  },
+  {
+    "id": "q108",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is a shared appreciation mortgage?",
+    "choices": [
+      "Borrower shares loan with co-borrower",
+      "Lender shares in increase of home’s value",
+      "Borrower pays less interest",
+      "Loan for multi-family properties"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Lender shares in increase of home’s value is the best answer."
+  },
+  {
+    "id": "q109",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What does a PUD rider in the mortgage explain?",
+    "choices": [
+      "Borrower’s obligations to HOA",
+      "Payment changes in ARMs",
+      "PMI cancellation rules",
+      "Interest-only terms"
+    ],
+    "answerIndex": 0,
+    "explanation": "General mortgage program/product concept: Borrower’s obligations to HOA is the best answer."
+  },
+  {
+    "id": "q110",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "Who is a co-borrower?",
+    "choices": [
+      "Lender’s agent",
+      "Title company employee",
+      "Individual who shares loan repayment responsibility",
+      "Secondary appraiser"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Individual who shares loan repayment responsibility is the best answer."
+  },
+  {
+    "id": "q111",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the purpose of a gift letter?",
+    "choices": [
+      "Disclose gift tax",
+      "Show funds don’t need repayment",
+      "Show intent to occupy",
+      "Provide income documentation"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: Show funds don’t need repayment is the best answer."
+  },
+  {
+    "id": "q112",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the passing score for the national SAFE MLO exam?",
+    "choices": [
+      "65%",
+      "70%",
+      "75%",
+      "80%"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: 75% is the best answer."
+  },
+  {
+    "id": "q113",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "How many hours of ethics are required in annual CE?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 1,
+    "explanation": "General mortgage program/product concept: 2 is the best answer."
+  },
+  {
+    "id": "q114",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What does PITI stand for?",
+    "choices": [
+      "Property, Insurance, Title, Income",
+      "Principal, Interest, Taxes, Insurance",
+      "Payments, Insurance, Term, Income",
+      "Property, Inspection, Terms, Insurance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Origination/underwriting concept: Principal, Interest, Taxes, Insurance is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q115",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What’s the maximum seller concession on conventional loans with LTV over 90%?",
+    "choices": [
+      "3%",
+      "6%",
+      "9%",
+      "Unlimited"
+    ],
+    "answerIndex": 0,
+    "explanation": "General mortgage program/product concept: 3% is the best answer."
+  },
+  {
+    "id": "q116",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What does credit score help determine in underwriting?",
+    "choices": [
+      "Property value",
+      "Lender’s margin",
+      "Risk of repayment default",
+      "Income-to-debt ratio"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Risk of repayment default is the best answer."
+  },
+  {
+    "id": "q117",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is the Dodd-Frank Act focused on?",
+    "choices": [
+      "Property taxes",
+      "Flood insurance",
+      "Financial reform and consumer protection",
+      "Veteran benefits"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Financial reform and consumer protection is the best answer."
+  },
+  {
+    "id": "q118",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What is the note rate?",
+    "choices": [
+      "Annual fee",
+      "Closing rate",
+      "Stated interest rate on the loan",
+      "Effective APR"
+    ],
+    "answerIndex": 2,
+    "explanation": "Origination/underwriting concept: Stated interest rate on the loan is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q119",
+    "category": "state",
+    "type": "mcq",
+    "prompt": "What disqualifies an MLO license applicant under the SAFE Act?",
+    "choices": [
+      "Prior bankruptcy",
+      "Felony in past 7 years",
+      "Missed CE hours",
+      "College degree"
+    ],
+    "answerIndex": 1,
+    "explanation": "State licensing/enforcement concept: Felony in past 7 years is the correct authority/requirement under SAFE/NMLS-related rules."
+  },
+  {
+    "id": "q120",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "How soon must a revised LE be sent after a valid change?",
+    "choices": [
+      "Immediately",
+      "Within 1 business day",
+      "Within 3 business days",
+      "Within 7 calendar days"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Within 3 business days is the best answer."
+  },
+  {
+    "id": "q121",
+    "category": "state",
+    "type": "mcq",
+    "prompt": "What is the penalty for knowingly providing false info on the MU4 form?",
+    "choices": [
+      "Fine only",
+      "License suspension",
+      "Denial or revocation of license",
+      "Temporary authority"
+    ],
+    "answerIndex": 2,
+    "explanation": "State licensing/enforcement concept: Denial or revocation of license is the correct authority/requirement under SAFE/NMLS-related rules."
+  },
+  {
+    "id": "q122",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What does a title search identify?",
+    "choices": [
+      "Buyer’s income",
+      "Interest rates",
+      "Ownership and liens",
+      "HOA dues"
+    ],
+    "answerIndex": 2,
+    "explanation": "Origination/underwriting concept: Ownership and liens is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q123",
+    "category": "general",
+    "type": "mcq",
+    "prompt": "What is a conventional loan?",
+    "choices": [
+      "FHA-backed",
+      "VA-guaranteed",
+      "Not insured or guaranteed by the government",
+      "USDA-subsidized"
+    ],
+    "answerIndex": 2,
+    "explanation": "General mortgage program/product concept: Not insured or guaranteed by the government is the best answer."
+  },
+  {
+    "id": "q124",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What’s included in closing costs?",
+    "choices": [
+      "Only lender fees",
+      "Only taxes",
+      "Lender, third-party, and prepaid items",
+      "Agent commissions only"
+    ],
+    "answerIndex": 2,
+    "explanation": "Origination/underwriting concept: Lender, third-party, and prepaid items is the correct definition or calculation used in qualifying and processing loans."
+  },
+  {
+    "id": "q125",
+    "category": "origination",
+    "type": "mcq",
+    "prompt": "What’s the key difference between a fixed-rate and ARM loan?",
+    "choices": [
+      "ARM is always lower rate",
+      "ARM interest rate adjusts",
+      "Fixed loan has longer term",
+      "Fixed loans use index + margin"
+    ],
+    "answerIndex": 1,
+    "explanation": "Origination/underwriting concept: ARM interest rate adjusts is the correct definition or calculation used in qualifying and processing loans."
+  }
+]

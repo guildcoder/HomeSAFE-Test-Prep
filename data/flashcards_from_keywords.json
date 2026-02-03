@@ -1,0 +1,1562 @@
+[
+  {
+    "term": "APR",
+    "definition": "Annual Percentage Rate; a standardized measure of the cost of credit including interest and certain finance charges, expressed as a yearly rate."
+  },
+  {
+    "term": "LTV",
+    "definition": "Loan-to-Value; loan amount ÷ property value (typically the lower of purchase price or appraised value)."
+  },
+  {
+    "term": "CLTV",
+    "definition": "Combined Loan-to-Value; total of all liens ÷ property value."
+  },
+  {
+    "term": "HLTV",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "TRID",
+    "definition": "TILA-RESPA Integrated Disclosure rule requiring the Loan Estimate and Closing Disclosure for most closed-end mortgages."
+  },
+  {
+    "term": "RESPA",
+    "definition": "Real Estate Settlement Procedures Act; requires settlement disclosures and prohibits kickbacks/unearned fees (Section 8)."
+  },
+  {
+    "term": "TILA",
+    "definition": "Truth in Lending Act; requires standardized disclosures of credit terms/costs (e.g., APR, finance charge)."
+  },
+  {
+    "term": "ECOA",
+    "definition": "Equal Credit Opportunity Act; prohibits discrimination in credit and requires certain notices (e.g., adverse action)."
+  },
+  {
+    "term": "HMDA",
+    "definition": "Home Mortgage Disclosure Act; requires data collection/reporting on mortgage applications and loans by covered institutions."
+  },
+  {
+    "term": "LE (Loan Estimate)",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "CD (Closing Disclosure)",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Ability to Repay (ATR)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Qualified Mortgage (QM)",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "High-Priced Mortgage Loan (HPML)",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "High-Cost Mortgage (HOEPA)",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Adverse Action Notice",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Right of Rescission",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "CHARM Booklet",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Your Home Loan Toolkit",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "AFBA Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "ABA (Affiliated Business Arrangement)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Kickback",
+    "definition": "A compliance/ethics concept describing prohibited or high-risk conduct; violations can lead to civil penalties, criminal liability, and license action."
+  },
+  {
+    "term": "Fee Splitting",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Steering",
+    "definition": "A compliance/ethics concept describing prohibited or high-risk conduct; violations can lead to civil penalties, criminal liability, and license action."
+  },
+  {
+    "term": "Redlining",
+    "definition": "A compliance/ethics concept describing prohibited or high-risk conduct; violations can lead to civil penalties, criminal liability, and license action."
+  },
+  {
+    "term": "Reverse Redlining",
+    "definition": "A compliance/ethics concept describing prohibited or high-risk conduct; violations can lead to civil penalties, criminal liability, and license action."
+  },
+  {
+    "term": "Mortgage Fraud",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Straw Buyer",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Loan Flipping",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Mortgage Servicing Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Initial Escrow Statement",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Annual Escrow Statement",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Mortgage Broker",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Mortgage Banker",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Correspondent Lender",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Secondary Market",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "GSE (Government Sponsored Enterprise)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Fannie Mae",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Freddie Mac",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Ginnie Mae",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "FHA",
+    "definition": "Federal Housing Administration; insures lenders against loss on FHA loans."
+  },
+  {
+    "term": "VA",
+    "definition": "Department of Veterans Affairs; guarantees eligible veteran loans and sets program rules."
+  },
+  {
+    "term": "USDA",
+    "definition": "USDA Rural Development; guarantees certain loans for eligible rural/area borrowers."
+  },
+  {
+    "term": "DD214",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Certificate of Eligibility",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Certificate of Reasonable Value",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "MIP (Mortgage Insurance Premium)",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "UFMIP",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Funding Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Guarantee Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Residual Income",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "GUS (Guaranteed Underwriting System)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "AUS (Automated Underwriting System)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "FHA Total Scorecard",
+    "definition": "Federal Housing Administration; insures lenders against loss on FHA loans."
+  },
+  {
+    "term": "URLA",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Title Insurance",
+    "definition": "A policy protecting against specified risks (property damage, flood, title defects, or lender loss); may be required by program or lender."
+  },
+  {
+    "term": "Title Search",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Deed of Trust",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Promissory Note",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Security Instrument",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Lien",
+    "definition": "A legal claim against property to secure repayment of a debt; priority affects who gets paid first if the property is sold/foreclosed."
+  },
+  {
+    "term": "Voluntary Lien",
+    "definition": "A legal claim against property to secure repayment of a debt; priority affects who gets paid first if the property is sold/foreclosed."
+  },
+  {
+    "term": "Involuntary Lien",
+    "definition": "A legal claim against property to secure repayment of a debt; priority affects who gets paid first if the property is sold/foreclosed."
+  },
+  {
+    "term": "Amortization",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Balloon Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Interest-Only Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Negative Amortization",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "ARM",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Hybrid ARM",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Rate Cap",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Initial Cap",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Periodic Cap",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Lifetime Cap",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Index",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Margin",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Fully Indexed Rate",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Note Rate",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Discount Points",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Yield Spread Premium",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Buydown",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Temporary Buydown",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Permanent Buydown",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Basis Point",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Prepayment Penalty",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Escrow Account",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Impound Account",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Loan Processor",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Loan Underwriter",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Closing Agent",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Servicer",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Appraiser",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "AMC (Appraisal Management Company)",
+    "definition": "A method or product used to estimate property value; rules may require independence and timely delivery of valuation copies to applicants."
+  },
+  {
+    "term": "HVCC (Home Valuation Code of Conduct)",
+    "definition": "A method or product used to estimate property value; rules may require independence and timely delivery of valuation copies to applicants."
+  },
+  {
+    "term": "DTI",
+    "definition": "A qualifying metric used in underwriting to measure payment burden relative to income; calculated using verified income and monthly obligations."
+  },
+  {
+    "term": "Front-End Ratio",
+    "definition": "A qualifying metric used in underwriting to measure payment burden relative to income; calculated using verified income and monthly obligations."
+  },
+  {
+    "term": "Back-End Ratio",
+    "definition": "A qualifying metric used in underwriting to measure payment burden relative to income; calculated using verified income and monthly obligations."
+  },
+  {
+    "term": "Net Tangible Benefit",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Anti-Money Laundering (AML)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Patriot Act",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "BSA (Bank Secrecy Act)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "FinCEN",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Red Flags Rule",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "GLBA",
+    "definition": "Gramm–Leach–Bliley Act; requires privacy notices and safeguards for nonpublic personal information."
+  },
+  {
+    "term": "FACTA",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Fraud Alert",
+    "definition": "A compliance/ethics concept describing prohibited or high-risk conduct; violations can lead to civil penalties, criminal liability, and license action."
+  },
+  {
+    "term": "Active Duty Alert",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Credit Freeze",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Credit Report",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Credit Score",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "FCRA",
+    "definition": "Fair Credit Reporting Act; governs consumer reports, permissible purpose, accuracy, and adverse action notices tied to credit reports."
+  },
+  {
+    "term": "Consumer Reporting Agency",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Risk-Based Pricing Notice",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Disposal Rule",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "FTC Safeguards Rule",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "ESIGN Act",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "E-Signature",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Email Consent",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Business Day (General)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Business Day (Pre-Consummation)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Consummation",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Loan Application",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Six Pieces of Application",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Pre-Approval",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Pre-Qualification",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Lock-In Agreement",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Rate Lock",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Float",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Float-Down",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Change of Circumstance",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Tolerance Threshold",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Zero Tolerance Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "10% Cumulative Tolerance",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "No Tolerance Limit",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Revised Loan Estimate",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Closing Disclosure Timing",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "LE Timing",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "CD Timing",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Settlement Service Provider List",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Affiliated Business Arrangement",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Bona Fide Discount Points",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Homeownership Counseling Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Servicing Disclosure Statement",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Escrow Closing Notice",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Partial Payment Policy",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Initial Interest Rate Adjustment Notice",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Payment Shock",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Initial Rate",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Adjustment Period",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Lookback Period",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Conversion Option",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Payment Cap",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Negative Equity",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "ARM Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Mortgage Assistance Relief Services Rule (MARS)",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "MAP Rule",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "SAFE Act",
+    "definition": "Federal act creating national MLO licensing/registration standards and the NMLS system."
+  },
+  {
+    "term": "NMLS",
+    "definition": "Nationwide Multistate Licensing System used to license/track MLOs and companies."
+  },
+  {
+    "term": "MU4 Form",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Background Check",
+    "definition": "A state or federal MLO licensing/registration requirement or enforcement action; specifics depend on the jurisdiction and SAFE Act standards."
+  },
+  {
+    "term": "State Licensing",
+    "definition": "A state or federal MLO licensing/registration requirement or enforcement action; specifics depend on the jurisdiction and SAFE Act standards."
+  },
+  {
+    "term": "Continuing Education",
+    "definition": "A state or federal MLO licensing/registration requirement or enforcement action; specifics depend on the jurisdiction and SAFE Act standards."
+  },
+  {
+    "term": "Ethics Education",
+    "definition": "A compliance/ethics concept describing prohibited or high-risk conduct; violations can lead to civil penalties, criminal liability, and license action."
+  },
+  {
+    "term": "Renewal Deadline",
+    "definition": "A state or federal MLO licensing/registration requirement or enforcement action; specifics depend on the jurisdiction and SAFE Act standards."
+  },
+  {
+    "term": "Temporary Authority",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Cease and Desist Order",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Civil Penalty",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Criminal Penalty",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Revocation",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Suspension",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Investigative Subpoena",
+    "definition": "A method or product used to estimate property value; rules may require independence and timely delivery of valuation copies to applicants."
+  },
+  {
+    "term": "State Regulatory Authority",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "CFPB",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Enforcement Action",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Advertising Rules",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Prohibited Terms",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Fair Lending",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Disparate Impact",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Disparate Treatment",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "ECOA Valuations Rule",
+    "definition": "Equal Credit Opportunity Act; prohibits discrimination in credit and requires certain notices (e.g., adverse action)."
+  },
+  {
+    "term": "HMDA Reportable Data",
+    "definition": "Home Mortgage Disclosure Act; requires data collection/reporting on mortgage applications and loans by covered institutions."
+  },
+  {
+    "term": "Section 8 RESPA",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Section 9 RESPA",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Kickbacks and Referral Fees",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Title Insurance Requirement",
+    "definition": "A policy protecting against specified risks (property damage, flood, title defects, or lender loss); may be required by program or lender."
+  },
+  {
+    "term": "ABA Disclosure Timing",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "GFE (Good Faith Estimate)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "HUD-1",
+    "definition": "Settlement statement used for certain transactions not covered by TRID (e.g., some reverse mortgages)."
+  },
+  {
+    "term": "Settlement Costs Booklet",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Appraisal Delivery Timing",
+    "definition": "A method or product used to estimate property value; rules may require independence and timely delivery of valuation copies to applicants."
+  },
+  {
+    "term": "Notice of Action Taken",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Notice of Incomplete Application",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Valuation Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "ECOA Appraisal Delivery Rule",
+    "definition": "Equal Credit Opportunity Act; prohibits discrimination in credit and requires certain notices (e.g., adverse action)."
+  },
+  {
+    "term": "Homeowners Protection Act (HPA)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "PMI Cancellation",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Final PMI Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Foreclosure",
+    "definition": "The legal process to enforce a mortgage lien after default; procedures vary by state (judicial vs. non-judicial) and may include rights of reinstatement/redemption."
+  },
+  {
+    "term": "Short Sale",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Deed in Lieu",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Loan Modification",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Forbearance",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Repayment Plan",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Delinquency",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Default",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Acceleration Clause",
+    "definition": "A contract provision in the note/security instrument that defines rights and remedies (e.g., acceleration, due-on-sale) under certain conditions."
+  },
+  {
+    "term": "Due-on-Sale Clause",
+    "definition": "A contract provision in the note/security instrument that defines rights and remedies (e.g., acceleration, due-on-sale) under certain conditions."
+  },
+  {
+    "term": "Power of Sale Clause",
+    "definition": "A contract provision in the note/security instrument that defines rights and remedies (e.g., acceleration, due-on-sale) under certain conditions."
+  },
+  {
+    "term": "Reinstatement",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Redemption Period",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Judicial Foreclosure",
+    "definition": "The legal process to enforce a mortgage lien after default; procedures vary by state (judicial vs. non-judicial) and may include rights of reinstatement/redemption."
+  },
+  {
+    "term": "Non-Judicial Foreclosure",
+    "definition": "The legal process to enforce a mortgage lien after default; procedures vary by state (judicial vs. non-judicial) and may include rights of reinstatement/redemption."
+  },
+  {
+    "term": "Servicing Transfer Statement",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Aggregate Escrow Analysis",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Initial Interest Statement",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Homeowner's Insurance",
+    "definition": "A policy protecting against specified risks (property damage, flood, title defects, or lender loss); may be required by program or lender."
+  },
+  {
+    "term": "Hazard Insurance",
+    "definition": "A policy protecting against specified risks (property damage, flood, title defects, or lender loss); may be required by program or lender."
+  },
+  {
+    "term": "Flood Insurance Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Flood Zone Determination",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Special Flood Hazard Area (SFHA)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "100-Year Floodplain",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "FEMA",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Flood Certification",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "NFIP (National Flood Insurance Program)",
+    "definition": "A policy protecting against specified risks (property damage, flood, title defects, or lender loss); may be required by program or lender."
+  },
+  {
+    "term": "Conforming Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Non-Conforming Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Jumbo Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Super Jumbo Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Subprime Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Alt-A Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Non-QM Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Bridge Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Construction Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Construction-to-Permanent Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Home Equity Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "HELOC",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Piggyback Loan",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Purchase Money Mortgage",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Seller Financing",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Wraparound Mortgage",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Graduated Payment Mortgage",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Growing Equity Mortgage",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Shared Appreciation Mortgage",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Lease Option",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Interest Rate Buydown",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Recast",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Refinance",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Streamline Refinance",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Cash-Out Refinance",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Rate-and-Term Refinance",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Debt Consolidation",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Purpose of Refinance",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Primary Residence",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Second Home",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Investment Property",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Owner-Occupied",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Non-Owner Occupied",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Property Types",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Condo",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Townhouse",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Manufactured Home",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Modular Home",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Site-Built Home",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Planned Unit Development (PUD)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Cooperative (Co-op)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Title Vesting",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Tenancy in Common",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Joint Tenancy",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Tenancy by the Entirety",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Sole Ownership",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Trust",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Power of Attorney",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Appraisal",
+    "definition": "A method or product used to estimate property value; rules may require independence and timely delivery of valuation copies to applicants."
+  },
+  {
+    "term": "Sales Comparison Approach",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Cost Approach",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Income Approach",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Market Conditions Addendum",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Appraisal Review",
+    "definition": "A method or product used to estimate property value; rules may require independence and timely delivery of valuation copies to applicants."
+  },
+  {
+    "term": "BPO (Broker Price Opinion)",
+    "definition": "A method or product used to estimate property value; rules may require independence and timely delivery of valuation copies to applicants."
+  },
+  {
+    "term": "CMA (Comparative Market Analysis)",
+    "definition": "A method or product used to estimate property value; rules may require independence and timely delivery of valuation copies to applicants."
+  },
+  {
+    "term": "AVM (Automated Valuation Model)",
+    "definition": "A method or product used to estimate property value; rules may require independence and timely delivery of valuation copies to applicants."
+  },
+  {
+    "term": "Inspection",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Termite Report",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Well/Septic Test",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Survey",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Easement",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Encroachment",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Encumbrance",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Zoning Violation",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Building Code Violation",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Hazard Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Lead Paint Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Seller's Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Closing Costs",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Prepaids",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Origination Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Underwriting Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Processing Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Admin Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Courier Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Title Search Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Title Insurance Premium",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Recording Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Transfer Taxes",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Intangible Tax",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Prepaid Interest",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Escrow Setup",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Reserves",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Tax Certificate",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Home Warranty",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Notary Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Attorney Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Document Preparation Fee",
+    "definition": "A charge paid in connection with a mortgage transaction; must be accurately disclosed and may be subject to tolerance/limit rules depending on the transaction."
+  },
+  {
+    "term": "Commission",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Real Estate Agent",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Listing Agent",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Buyer's Agent",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Dual Agency",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Fiduciary Duty",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Material Fact",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Misrepresentation",
+    "definition": "A compliance/ethics concept describing prohibited or high-risk conduct; violations can lead to civil penalties, criminal liability, and license action."
+  },
+  {
+    "term": "Fraudulent Misrepresentation",
+    "definition": "A compliance/ethics concept describing prohibited or high-risk conduct; violations can lead to civil penalties, criminal liability, and license action."
+  },
+  {
+    "term": "Negligent Misrepresentation",
+    "definition": "A compliance/ethics concept describing prohibited or high-risk conduct; violations can lead to civil penalties, criminal liability, and license action."
+  },
+  {
+    "term": "Omissions",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Fair Housing Act",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Civil Rights Act",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Americans with Disabilities Act",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Blockbusting",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Panic Selling",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Equal Housing Logo",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Complaint Process",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Enforcement",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Testing Programs",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Accessibility Features",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Marketing Rules",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Trigger Terms",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "APR Disclosure",
+    "definition": "Annual Percentage Rate; a standardized measure of the cost of credit including interest and certain finance charges, expressed as a yearly rate."
+  },
+  {
+    "term": "Bait-and-Switch",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Testimonials",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Social Media Marketing",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Website Disclosures",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Rate Advertising",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Payment Advertising",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Term Advertising",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Licensing Display",
+    "definition": "A state or federal MLO licensing/registration requirement or enforcement action; specifics depend on the jurisdiction and SAFE Act standards."
+  },
+  {
+    "term": "Advertising Record Retention",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Recordkeeping Requirements",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Loan File Retention",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Document Delivery Timing",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "E-Sign Consent",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Document Format Requirements",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Audit Trail",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Borrower Identification",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Patriot Act Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "SSN Verification",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "OFAC Check",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Identity Theft Prevention",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Fraud Detection",
+    "definition": "A compliance/ethics concept describing prohibited or high-risk conduct; violations can lead to civil penalties, criminal liability, and license action."
+  },
+  {
+    "term": "Document Alteration",
+    "definition": "A qualifying metric used in underwriting to measure payment burden relative to income; calculated using verified income and monthly obligations."
+  },
+  {
+    "term": "Red Flag Indicators",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Suspicious Activity Report (SAR)",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Filing SAR",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "AML Training",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "AML Policy",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Compliance Management System",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Risk Assessment",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Internal Audit",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Corrective Action",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Complaint Tracking",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Compliance Officer",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Policies and Procedures",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Quality Control Plan",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Vendor Management",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Fair Lending Review",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Testing Results",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "HMDA LAR",
+    "definition": "Home Mortgage Disclosure Act; requires data collection/reporting on mortgage applications and loans by covered institutions."
+  },
+  {
+    "term": "Submission Deadline",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Geocoding",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "CRA Requirements",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Loan Program Disclosure",
+    "definition": "A required consumer-facing document that provides information about terms, costs, rights, or servicing; timing and content depend on the rule/program."
+  },
+  {
+    "term": "Product Guidelines",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Investor Overlays",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Lock Desk",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Rate Sheet",
+    "definition": "An interest-rate or ARM feature that affects how the note rate is set and how/when it can change, including limits (caps) and components (index + margin)."
+  },
+  {
+    "term": "Loan Pricing Engine",
+    "definition": "A mortgage product or transaction type with specific eligibility, documentation, and disclosure requirements."
+  },
+  {
+    "term": "Mortgage Insurance Coverage",
+    "definition": "A policy protecting against specified risks (property damage, flood, title defects, or lender loss); may be required by program or lender."
+  },
+  {
+    "term": "MI Company",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Coverage Levels",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Cancellation Policy",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Claim Process",
+    "definition": "A common mortgage lending term used on the SAFE exam; know the definition, why it matters, and where it appears in the loan process."
+  },
+  {
+    "term": "Mortgage Insurance Termination",
+    "definition": "A policy protecting against specified risks (property damage, flood, title defects, or lender loss); may be required by program or lender."
+  }
+]
